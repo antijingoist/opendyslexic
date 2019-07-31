@@ -1,8 +1,5 @@
 {
 .appVersion = "1230";
-DisplayStrings = (
-bad
-);
 date = "2019-07-31 02:23:48 +0000";
 familyName = "New Font";
 fontMaster = (
@@ -290,7 +287,7 @@ unicode = 005A;
 {
 color = 7;
 glyphname = a;
-lastChange = "2019-07-31 18:45:30 +0000";
+lastChange = "2019-07-31 18:47:15 +0000";
 layers = (
 {
 anchors = (
@@ -320,10 +317,10 @@ nodes = (
 "52 92 OFFCURVE",
 "80 273 CURVE SMOOTH",
 "106 442 OFFCURVE",
-"189 560 OFFCURVE",
+"215 560 OFFCURVE",
 "297 560 CURVE SMOOTH",
 "368 560 OFFCURVE",
-"401 536 OFFCURVE",
+"435 526 OFFCURVE",
 "471 468 CURVE"
 );
 },
@@ -334,9 +331,9 @@ nodes = (
 "166 137 OFFCURVE",
 "285 137 CURVE SMOOTH",
 "440 137 OFFCURVE",
-"496 205 OFFCURVE",
+"477 175 OFFCURVE",
 "477 304 CURVE SMOOTH",
-"444 475 OFFCURVE",
+"477 475 OFFCURVE",
 "363 507 OFFCURVE",
 "296 507 CURVE",
 "250 507 OFFCURVE",
