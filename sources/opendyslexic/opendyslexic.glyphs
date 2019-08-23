@@ -1,5 +1,8 @@
 {
 .appVersion = "1230";
+DisplayStrings = (
+"/psilioxia.case"
+);
 copyright = "Copyright © 2019 by Abbie Gonzalez. All rights reserved.";
 date = "2019-07-31 02:23:48 +0000";
 designer = "Abbie Gonzalez";
@@ -43657,7 +43660,7 @@ unicode = 034C;
 },
 {
 glyphname = arrowleftrightbelowcomb;
-lastChange = "2019-08-11 02:27:54 +0000";
+lastChange = "2019-08-22 20:06:52 +0000";
 layers = (
 {
 components = (
@@ -43667,7 +43670,7 @@ transform = "{0, -1, 1, 0, 444, -76}";
 },
 {
 name = arrowupbelowcomb;
-transform = "{0, 1, -1, 0, -17, -267}";
+transform = "{0, 1, -1, 0, -21, -307}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -44620,17 +44623,17 @@ unicode = 0385;
 },
 {
 glyphname = psili;
-lastChange = "2019-08-16 18:12:23 +0000";
+lastChange = "2019-08-22 20:17:08 +0000";
 layers = (
 {
 anchors = (
 {
 name = _grekcap;
-position = "{274, 624}";
+position = "{281, 622}";
 },
 {
 name = _left;
-position = "{287, 633}";
+position = "{275, 628}";
 },
 {
 name = _polycase;
@@ -44643,6 +44646,10 @@ position = "{168, 500}";
 {
 name = center;
 position = "{157.509, 107.661}";
+},
+{
+name = hookabove;
+position = "{281, 624}";
 },
 {
 name = top;
@@ -44992,7 +44999,7 @@ width = 662;
 },
 {
 glyphname = psilioxia;
-lastChange = "2019-08-16 18:22:52 +0000";
+lastChange = "2019-08-22 20:19:45 +0000";
 layers = (
 {
 anchors = (
@@ -45011,12 +45018,13 @@ position = "{302, 917}";
 );
 components = (
 {
-name = psili;
-transform = "{1, 0, 0, 1, 132, 3}";
+name = oxia;
+transform = "{1, 0, 0, 1, 249, 135}";
 },
 {
-name = oxia;
-transform = "{1, 0, 0, 1, 156, 204}";
+anchor = left;
+name = psili;
+transform = "{1, 0, 0, 1, 54, 166}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -45465,17 +45473,21 @@ width = 600;
 },
 {
 glyphname = oxia;
-lastChange = "2019-08-16 18:22:52 +0000";
+lastChange = "2019-08-22 20:19:33 +0000";
 layers = (
 {
 anchors = (
 {
 name = _polycase;
-position = "{362, 665}";
+position = "{362, 662}";
 },
 {
 name = _top;
 position = "{144, 500}";
+},
+{
+name = left;
+position = "{80, 659}";
 },
 {
 name = top;
