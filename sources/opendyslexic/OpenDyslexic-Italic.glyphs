@@ -91825,38 +91825,6 @@ width = 488;
 note = uni03020303;
 },
 {
-glyphname = brevecombcy;
-lastChange = "2019-08-22 18:52:17 +0000";
-layers = (
-{
-layerId = "4FCB07EB-01E7-4D87-AA20-FCB2BF85BBFF";
-paths = (
-{
-closed = 1;
-nodes = (
-"192.61 726 LINE",
-"166.52 639 OFFCURVE",
-"123.06 624 OFFCURVE",
-"37.06 624 CURVE SMOOTH",
-"-35.94 624 OFFCURVE",
-"-73.71 638 OFFCURVE",
-"-48.39 726 CURVE",
-"-108.39 726 LINE",
-"-144.79 603 OFFCURVE",
-"-89.87 529 OFFCURVE",
-"8.13 529 CURVE SMOOTH",
-"105.13 529 OFFCURVE",
-"215.21 603 OFFCURVE",
-"251.61 726 CURVE"
-);
-}
-);
-width = 7;
-}
-);
-note = brevecombcy;
-},
-{
 glyphname = od_hook;
 layers = (
 {
