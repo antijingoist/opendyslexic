@@ -2,7 +2,8 @@
 .appVersion = "1230";
 DisplayStrings = (
 "Ø",
-"H/Etapsiliperispomeniprosgegrammeni"
+"H/Etapsiliperispomeniprosgegrammeni",
+"/Lcaron"
 );
 copyright = "Copyright © 2019 by Abbie Gonzalez. All rights reserved.";
 customParameters = (
