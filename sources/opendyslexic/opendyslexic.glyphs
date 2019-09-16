@@ -1,9 +1,5 @@
 {
 .appVersion = "1230";
-DisplayStrings = (
-"/zedescender-cy",
-"/Upsilonoxia"
-);
 classes = (
 {
 automatic = 1;
@@ -47319,7 +47315,7 @@ unicode = 0497;
 },
 {
 glyphname = "zedescender-cy";
-lastChange = "2019-09-13 23:38:16 +0000";
+lastChange = "2019-09-16 14:18:04 +0000";
 layers = (
 {
 components = (
@@ -47340,7 +47336,7 @@ name = "ze-cy";
 },
 {
 name = cedillacomb;
-transform = "{1, 0, 0, 1, 48, 18}";
+transform = "{1, 0, 0, 1, 48, 11}";
 }
 );
 layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
@@ -101027,6 +101023,7 @@ t = -60;
 };
 "BBDB329E-CE83-4304-A6B1-53EA5ACC004E" = {
 A = {
+C = 0;
 G = -20;
 J = 80;
 T = -140;
@@ -101038,7 +101035,6 @@ t = -30;
 v = -120;
 w = -40;
 y = -100;
-C = 0;
 };
 B = {
 V = -10;
