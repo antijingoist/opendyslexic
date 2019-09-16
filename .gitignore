@@ -1,0 +1,5 @@
+release-builds
+*.zip
+*.sh
+actions/build-regular.scpt
+build-release.ps1
