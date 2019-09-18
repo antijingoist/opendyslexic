@@ -14593,7 +14593,7 @@ unicode = 028F;
 {
 color = 7;
 glyphname = a;
-lastChange = "2019-09-18 15:29:16 +0000";
+lastChange = "2019-09-18 19:08:53 +0000";
 layers = (
 {
 anchors = (
@@ -15315,8 +15315,8 @@ nodes = (
 "360 -20 OFFCURVE",
 "417 3 OFFCURVE",
 "459 37 CURVE",
-"459 -1 LINE",
-"607 -1 LINE",
+"459 -2 LINE",
+"607 -2 LINE",
 "543 562 LINE",
 "427 562 LINE",
 "431 530 LINE",
@@ -20601,7 +20601,7 @@ unicode = 0261;
 {
 color = 7;
 glyphname = h;
-lastChange = "2019-09-17 13:43:28 +0000";
+lastChange = "2019-09-18 19:09:01 +0000";
 layers = (
 {
 anchors = (
@@ -20711,15 +20711,15 @@ nodes = (
 "239 530 CURVE",
 "257 850 LINE",
 "113 850 LINE",
-"51 -1 LINE",
-"259 -1 LINE",
-"202 392 OFFCURVE",
+"51 -2 LINE",
+"259 -2 LINE",
+"202 391 OFFCURVE",
 "233 449 OFFCURVE",
 "364 449 CURVE SMOOTH",
 "492 449 OFFCURVE",
-"506 389 OFFCURVE",
-"425 -1 CURVE",
-"625 -1 LINE",
+"506 388 OFFCURVE",
+"425 -2 CURVE",
+"625 -2 LINE",
 "602 332 LINE SMOOTH"
 );
 }
@@ -23498,7 +23498,7 @@ unicode = 026F;
 {
 color = 7;
 glyphname = n;
-lastChange = "2019-09-10 20:29:46 +0000";
+lastChange = "2019-09-18 19:09:15 +0000";
 layers = (
 {
 anchors = (
@@ -23604,8 +23604,8 @@ nodes = (
 "219 538 CURVE",
 "207 583 LINE",
 "95 583 LINE",
-"51 -1 LINE",
-"247 -1 LINE",
+"51 0 LINE",
+"247 0 LINE",
 "221 316 LINE SMOOTH",
 "214 406 OFFCURVE",
 "271 455 OFFCURVE",
@@ -23613,8 +23613,8 @@ nodes = (
 "427 455 OFFCURVE",
 "462 417 OFFCURVE",
 "454 341 CURVE SMOOTH",
-"420 -1 LINE",
-"618 -1 LINE",
+"420 0 LINE",
+"618 0 LINE",
 "594 325 LINE SMOOTH"
 );
 }
@@ -27684,7 +27684,7 @@ unicode = 1D74;
 {
 color = 7;
 glyphname = t;
-lastChange = "2019-09-16 20:46:13 +0000";
+lastChange = "2019-09-18 19:10:27 +0000";
 layers = (
 {
 anchors = (
@@ -27811,16 +27811,16 @@ paths = (
 {
 closed = 1;
 nodes = (
-"478 156 LINE",
-"372 155 OFFCURVE",
+"462 155 LINE",
+"356 154 OFFCURVE",
 "313 155 OFFCURVE",
 "299 155 CURVE",
 "321 764 LINE",
 "174 704 LINE",
 "149 382 OFFCURVE",
-"152 96 OFFCURVE",
-"151 70 CURVE SMOOTH",
-"150 23 OFFCURVE",
+"152 100 OFFCURVE",
+"151 74 CURVE SMOOTH",
+"150 27 OFFCURVE",
 "155 4 OFFCURVE",
 "203 0 CURVE SMOOTH",
 "214 -1 OFFCURVE",
