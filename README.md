@@ -1,6 +1,6 @@
 # ReadMe
 
-This is OpenDyslexic, recreated in SIL-OFL. antijingoist/opendyslexic will be the official OpenDyslexic repo.
+This is OpenDyslexic, recreated in SIL-OFL. antijingoist/opendyslexic will be the official OpenDyslexic repo. It is an opensource typeface that aims to help with some of the symptoms of dyslexia, as defined by the DSM-V. 
 
 ## Why?
 
