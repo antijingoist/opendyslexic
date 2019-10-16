@@ -3,3 +3,4 @@ release-builds
 *.sh
 actions/build-regular.scpt
 build-release.ps1
+compiled/fonttest.html
