@@ -384,6 +384,7 @@ Updated with the current state of the glyphs.
 Recompositing some glyphs for consistency. Spacing fixes. Moving colors to stylesets.
 Metric fixes, more progress on Bold, a dash of color
 Adding glyphs for BoldItalic
+Update FONTLOG for rc2
 Added complied woff2,eot formats. Adjusted character spacing and kerning. Removed ss04.
 removed errant color layers in the non-color styleset.
 Compiled otf and webfont
