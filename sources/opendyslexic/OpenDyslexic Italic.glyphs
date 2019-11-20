@@ -1,8 +1,7 @@
 {
 .appVersion = "1271";
 DisplayStrings = (
-"/Lje-cy",
-"/od_vertical_stroke/Che-cy/Cheverticalstroke-cy"
+"/Lje-cy"
 );
 classes = (
 {
