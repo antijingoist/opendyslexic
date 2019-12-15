@@ -1,8 +1,5 @@
 {
 .appVersion = "1271";
-DisplayStrings = (
-"/Lje-cy"
-);
 classes = (
 {
 automatic = 1;
@@ -67219,7 +67216,7 @@ unicode = 203A;
 },
 {
 glyphname = primeReversed;
-lastChange = "2019-11-02 02:43:06 +0000";
+lastChange = "2019-12-15 15:18:48 +0000";
 layers = (
 {
 anchors = (
@@ -67233,22 +67230,22 @@ paths = (
 {
 closed = 1;
 nodes = (
-"240 573 OFFCURVE",
-"247 580 OFFCURVE",
-"244 589 CURVE SMOOTH",
-"193 765 LINE SMOOTH",
-"191 771 OFFCURVE",
-"185 773 OFFCURVE",
-"178 770 CURVE SMOOTH",
-"114 741 LINE SMOOTH",
-"106 737 OFFCURVE",
-"103 731 OFFCURVE",
-"106 725 CURVE SMOOTH",
-"174 592 LINE SMOOTH",
-"176 587 OFFCURVE",
-"180 585 OFFCURVE",
-"185 584 CURVE SMOOTH",
-"230 575 LINE SMOOTH"
+"310 573 OFFCURVE",
+"317 580 OFFCURVE",
+"314 589 CURVE SMOOTH",
+"263 765 LINE SMOOTH",
+"261 771 OFFCURVE",
+"255 773 OFFCURVE",
+"248 770 CURVE SMOOTH",
+"184 741 LINE SMOOTH",
+"176 737 OFFCURVE",
+"173 731 OFFCURVE",
+"176 725 CURVE SMOOTH",
+"244 592 LINE SMOOTH",
+"246 587 OFFCURVE",
+"250 585 OFFCURVE",
+"255 584 CURVE SMOOTH",
+"300 575 LINE SMOOTH"
 );
 }
 );
@@ -81973,13 +81970,13 @@ unicode = 02C1;
 },
 {
 glyphname = primemod;
-lastChange = "2019-11-02 00:59:24 +0000";
+lastChange = "2019-12-15 15:18:38 +0000";
 layers = (
 {
 components = (
 {
 name = primeReversed;
-transform = "{-1, 0, 0, 1, 630, -10}";
+transform = "{-1, 0, 0, 1, 470, -10}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -85005,17 +85002,17 @@ unicode = 034C;
 },
 {
 glyphname = arrowleftrightbelowcomb;
-lastChange = "2019-09-05 22:37:18 +0000";
+lastChange = "2019-12-15 15:19:52 +0000";
 layers = (
 {
 components = (
 {
 name = arrowupbelowcomb;
-transform = "{0, -1, 1, 0, 432, -76}";
+transform = "{0, -1.1, 1.1, 0, 329, -68}";
 },
 {
 name = arrowupbelowcomb;
-transform = "{0, 1, -1, 0, -99, -307}";
+transform = "{0, 1.1, -1.1, 0, -67, -318}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -85025,11 +85022,11 @@ width = 435;
 components = (
 {
 name = arrowupbelowcomb;
-transform = "{0, -1, 1, 0, 430, -76}";
+transform = "{0, -1, 1, 0, 309, -48}";
 },
 {
 name = arrowupbelowcomb;
-transform = "{0, 1, -1, 0, -101, -307}";
+transform = "{0, 1, -1, 0, -70, -313}";
 }
 );
 layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
@@ -85506,7 +85503,7 @@ unicode = 02D9;
 },
 {
 glyphname = grave;
-lastChange = "2019-10-12 01:58:43 +0000";
+lastChange = "2019-12-15 15:18:25 +0000";
 layers = (
 {
 anchors = (
@@ -85524,10 +85521,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"424 619 LINE",
-"285 746 LINE",
-"206 746 LINE",
-"293 634 LINE"
+"435 613 LINE",
+"282 752 LINE",
+"195 752 LINE",
+"291 629 LINE"
 );
 }
 );
