@@ -1,10 +1,5 @@
 {
-.appVersion = "1271";
-DisplayStrings = (
-"/Lje-cy",
-"/gravecomb AÂ/Acircumflexgrave",
-"/Ddotbelow"
-);
+.appVersion = "1286";
 classes = (
 {
 automatic = 1;
@@ -6215,14 +6210,16 @@ unicode = 1E40;
 },
 {
 glyphname = Mdotbelow;
-lastChange = "2019-11-02 15:04:35 +0000";
+lastChange = "2020-02-19 20:13:05 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = M;
 },
 {
+alignment = -1;
 name = dotbelowcomb;
 transform = "{1, 0, 0, 1, 480, -158}";
 }
@@ -6233,9 +6230,11 @@ width = 1239;
 {
 components = (
 {
+alignment = -1;
 name = M;
 },
 {
+alignment = -1;
 name = dotbelowcomb;
 transform = "{1, 0, 0, 1, 445, -128}";
 }
@@ -14822,14 +14821,16 @@ unicode = 02AD;
 },
 {
 glyphname = bilabialclick;
-lastChange = "2019-10-14 03:44:35 +0000";
+lastChange = "2020-02-19 20:13:05 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = O;
 },
 {
+alignment = -1;
 name = dotaccent;
 transform = "{1, 0, 0, 1, 441, -209}";
 }
@@ -36782,15 +36783,16 @@ unicode = 04CB;
 },
 {
 glyphname = "Emtail-cy";
-lastChange = "2019-11-15 15:56:28 +0000";
+lastChange = "2020-02-19 20:21:34 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = M;
 },
 {
-anchor = hookbelow;
+anchor = top;
 name = commaaccentcomb;
 transform = "{1, 0, 0, 1, 468, 1212}";
 }
@@ -36801,10 +36803,11 @@ width = 1239;
 {
 components = (
 {
+alignment = -1;
 name = M;
 },
 {
-anchor = hookbelow;
+anchor = top;
 name = commaaccentcomb;
 transform = "{1, 0, 0, 1, 430, 1085}";
 }
@@ -65567,15 +65570,17 @@ unicode = 2027;
 },
 {
 glyphname = interrobang;
-lastChange = "2019-10-14 02:21:27 +0000";
+lastChange = "2020-02-19 20:13:05 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = question;
 transform = "{1, 0, 0, 1, 90, 12}";
 },
 {
+alignment = -1;
 name = exclam;
 transform = "{1, 0, 0, 1.23869, 153, -39}";
 }
@@ -65586,10 +65591,12 @@ width = 732;
 {
 components = (
 {
+alignment = -1;
 name = question;
 transform = "{1, 0, 0, 1, -3, 66}";
 },
 {
+alignment = -1;
 name = exclam;
 transform = "{1, 0, 0, 1.25323, 270, -29}";
 }
@@ -65815,27 +65822,32 @@ unicode = 2048;
 },
 {
 glyphname = referencemark;
-lastChange = "2019-10-12 18:52:28 +0000";
+lastChange = "2020-02-19 20:13:05 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = X;
 transform = "{1.27165, 0, 0, 1, 0, 0}";
 },
 {
+alignment = -1;
 name = period;
 transform = "{1, 0, 0, 1, 978, 339}";
 },
 {
+alignment = -1;
 name = period;
 transform = "{1, 0, 0, 1, 181, 364}";
 },
 {
+alignment = -1;
 name = period;
 transform = "{1, 0, 0, 1, 571, -84}";
 },
 {
+alignment = -1;
 name = period;
 transform = "{1, 0, 0, 1, 604, 725}";
 }
@@ -65846,22 +65858,27 @@ width = 1332;
 {
 components = (
 {
+alignment = -1;
 name = X;
 transform = "{1.27165, 0, 0, 1, 0, 0}";
 },
 {
+alignment = -1;
 name = period;
 transform = "{1, 0, 0, 1, 1005, 343}";
 },
 {
+alignment = -1;
 name = period;
 transform = "{1, 0, 0, 1, 178, 344}";
 },
 {
+alignment = -1;
 name = period;
 transform = "{1, 0, 0, 1, 540, -280}";
 },
 {
+alignment = -1;
 name = period;
 transform = "{1, 0, 0, 1, 597, 795}";
 }
@@ -66607,15 +66624,16 @@ width = 271;
 },
 {
 glyphname = semicolon.ss03;
-lastChange = "2019-10-08 00:53:02 +0000";
+lastChange = "2020-02-19 20:13:05 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = comma;
 },
 {
-alignment = 1;
+alignment = -1;
 name = period;
 transform = "{1.1, 0, 0, 1.1, 44, 382}";
 }
@@ -69390,14 +69408,16 @@ unicode = 201A;
 },
 {
 glyphname = quotedblbase;
-lastChange = "2019-09-03 02:06:10 +0000";
+lastChange = "2020-02-19 20:13:05 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = comma;
 },
 {
+alignment = -1;
 name = comma;
 }
 );
@@ -69407,9 +69427,11 @@ width = 321;
 {
 components = (
 {
+alignment = -1;
 name = comma;
 },
 {
+alignment = -1;
 name = comma;
 }
 );
@@ -70041,14 +70063,16 @@ width = 321;
 },
 {
 glyphname = quotedblbase.ss03;
-lastChange = "2019-09-03 01:54:16 +0000";
+lastChange = "2020-02-19 20:13:05 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = comma;
 },
 {
+alignment = -1;
 name = comma;
 }
 );
@@ -70058,9 +70082,11 @@ width = 321;
 {
 components = (
 {
+alignment = -1;
 name = comma;
 },
 {
+alignment = -1;
 name = comma;
 }
 );
@@ -70071,9 +70097,11 @@ width = 321;
 associatedMasterId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
 components = (
 {
+alignment = -1;
 name = comma;
 },
 {
+alignment = -1;
 name = comma;
 }
 );
