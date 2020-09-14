@@ -10,11 +10,18 @@ Also.... <sub>easier to correct some mistakes when starting from scratch.</sub>
 
 ## Styles
 
-OpenDyslexic, in Regular, Bold, Italic, and BoldItalic. Also, OpenDyslexic Mono, and OpenDyslexic Rounded: intentionally lower contrast.
+OpenDyslexic, in Regular, Bold, Italic, and BoldItalic. Also, OpenDyslexic Mono, and OpenDyslexic Rounded.
+
+## Download
+[Download the latest release on github](https://github.com/antijingoist/opendyslexic/releases)
+
+## Install
+On most platforms, double click the font files (.otf) to install. 
+[Detailed instructions](https://desk.zoho.com/portal/abbiecodes/en/kb/articles/installing-using-opendyslexic)
 
 ## Features?
 
-* Not Comic Sans (J/K I like Comic Sans)
+* Not Comic Sans (j/k I like Comic Sans too)
 * OpenDyslexic aims to use unique letter shapes to make recognizing text easier. 
 * Longer ascenders and descenders to better distinguish caps, lowercase, and similar lowercase letters.
 * Bolder bottoms of letters to communicate orientation, and better help differentiate between letters like pqdb. Similar to having an underlined _6_ so the similar looking 6 and 9 can be told apart in a game.
