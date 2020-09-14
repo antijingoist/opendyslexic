@@ -1,5 +1,8 @@
 {
 .appVersion = "1342";
+DisplayStrings = (
+"p/pmiddletilde"
+);
 classes = (
 {
 automatic = 1;
@@ -21,14 +24,14 @@ familyName = OpenDyslexic;
 featurePrefixes = (
 {
 automatic = 1;
-code = "languagesystem DFLT dflt;\012\012languagesystem latn dflt;\012languagesystem latn ROM;\012languagesystem latn MOL;\012languagesystem latn KAZ;\012languagesystem latn TAT;\012languagesystem latn TRK;\012languagesystem latn CRT;\012languagesystem latn AZE;\012languagesystem latn CAT;\012\012languagesystem cyrl dflt;\012languagesystem cyrl SRB;\012languagesystem cyrl BGR;\012";
+code = "languagesystem DFLT dflt;\012\012languagesystem latn dflt;\012languagesystem latn AZE;\012languagesystem latn CRT;\012languagesystem latn KAZ;\012languagesystem latn TAT;\012languagesystem latn TRK;\012languagesystem latn ROM;\012languagesystem latn MOL;\012languagesystem latn CAT;\012\012languagesystem cyrl dflt;\012languagesystem cyrl BGR;\012languagesystem cyrl SRB;\012";
 name = Languagesystems;
 }
 );
 features = (
 {
 automatic = 1;
-code = "feature locl;\012feature subs;\012feature sinf;\012feature sups;\012feature numr;\012feature dnom;\012feature frac;\012feature ordn;\012feature lnum;\012feature pnum;\012feature tnum;\012feature onum;\012feature case;\012feature salt;\012feature ss01;\012feature ss03;\012feature ss05;\012";
+code = "feature locl;\012feature subs;\012feature sinf;\012feature sups;\012feature numr;\012feature dnom;\012feature frac;\012feature ordn;\012feature lnum;\012feature pnum;\012feature tnum;\012feature onum;\012feature case;\012feature salt;\012feature ss01;\012feature ss05;\012";
 name = aalt;
 },
 {
@@ -38,7 +41,7 @@ name = ccmp;
 },
 {
 automatic = 1;
-code = "lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub Tcedilla by Tcommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub Tcedilla by Tcommaaccent;\012	sub tcedilla by tcommaaccent;\012	language KAZ;\012	sub i by idotaccent;\012	language TAT;\012	sub i by idotaccent;\012	language TRK;\012	sub i by idotaccent;\012	language CRT;\012	sub i by idotaccent;\012	language AZE;\012	sub i by idotaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012lookup locl_cyrl_0 {\012	script cyrl;\012	language SRB;\012	sub be-cy by be-cy.loclSRB;\012	sub ge-cy by ge-cy.loclSRB;\012	sub de-cy by de-cy.loclSRB;\012	sub pe-cy by pe-cy.loclSRB;\012	sub te-cy by te-cy.loclSRB;\012	sub sha-cy by sha-cy.loclSRB;\012	language BGR;\012	sub De-cy by De-cy.loclBGR;\012	sub El-cy by El-cy.loclBGR;\012	sub Ef-cy by Ef-cy.loclBGR;\012	sub ve-cy by ve-cy.loclBGR;\012	sub ge-cy by ge-cy.loclBGR;\012	sub de-cy by de-cy.loclBGR;\012	sub zhe-cy by zhe-cy.loclBGR;\012	sub ze-cy by ze-cy.loclBGR;\012	sub ii-cy by ii-cy.loclBGR;\012	sub iishort-cy by iishort-cy.loclBGR;\012	sub iigrave-cy by iigrave-cy.loclBGR;\012	sub ka-cy by ka-cy.loclBGR;\012	sub el-cy by el-cy.loclBGR;\012	sub pe-cy by pe-cy.loclBGR;\012	sub te-cy by te-cy.loclBGR;\012	sub tse-cy by tse-cy.loclBGR;\012	sub sha-cy by sha-cy.loclBGR;\012	sub shcha-cy by shcha-cy.loclBGR;\012	sub softsign-cy by softsign-cy.loclBGR;\012	sub hardsign-cy by hardsign-cy.loclBGR;\012	sub iu-cy by iu-cy.loclBGR;\012} locl_cyrl_0;\012";
+code = "lookup locl_latn_0 {\012	script latn;\012	language AZE;\012	language CRT;\012	language KAZ;\012	language TAT;\012	language TRK;\012	sub i by idotaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language ROM;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub Tcedilla by Tcommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_1;\012\012lookup locl_latn_2 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_2;\012\012lookup locl_cyrl_0 {\012	script cyrl;\012	language BGR;\012	sub De-cy by De-cy.loclBGR;\012	sub El-cy by El-cy.loclBGR;\012	sub Ef-cy by Ef-cy.loclBGR;\012	sub ve-cy by ve-cy.loclBGR;\012	sub ge-cy by ge-cy.loclBGR;\012	sub de-cy by de-cy.loclBGR;\012	sub zhe-cy by zhe-cy.loclBGR;\012	sub ze-cy by ze-cy.loclBGR;\012	sub ii-cy by ii-cy.loclBGR;\012	sub iishort-cy by iishort-cy.loclBGR;\012	sub iigrave-cy by iigrave-cy.loclBGR;\012	sub ka-cy by ka-cy.loclBGR;\012	sub el-cy by el-cy.loclBGR;\012	sub pe-cy by pe-cy.loclBGR;\012	sub te-cy by te-cy.loclBGR;\012	sub tse-cy by tse-cy.loclBGR;\012	sub sha-cy by sha-cy.loclBGR;\012	sub shcha-cy by shcha-cy.loclBGR;\012	sub softsign-cy by softsign-cy.loclBGR;\012	sub hardsign-cy by hardsign-cy.loclBGR;\012	sub iu-cy by iu-cy.loclBGR;\012} locl_cyrl_0;\012\012lookup locl_cyrl_1 {\012	script cyrl;\012	language SRB;\012	sub be-cy by be-cy.loclSRB;\012	sub ge-cy by ge-cy.loclSRB;\012	sub de-cy by de-cy.loclSRB;\012	sub pe-cy by pe-cy.loclSRB;\012	sub te-cy by te-cy.loclSRB;\012	sub sha-cy by sha-cy.loclSRB;\012} locl_cyrl_1;\012";
 name = locl;
 },
 {
@@ -118,18 +121,13 @@ name = liga;
 },
 {
 automatic = 1;
-code = "sub a by a.ss01;\012sub asterisk by asterisk.ss01;\012sub squarebelowcomb by squarebelowcomb.ss01;\012";
+code = "sub a by a.ss01;\012sub squarebelowcomb by squarebelowcomb.ss01;\012";
 name = salt;
 },
 {
 automatic = 1;
-code = "sub a by a.ss01;\012sub asterisk by asterisk.ss01;\012sub squarebelowcomb by squarebelowcomb.ss01;\012";
+code = "sub a by a.ss01;\012sub squarebelowcomb by squarebelowcomb.ss01;\012";
 name = ss01;
-},
-{
-automatic = 1;
-code = "sub zero by zero.ss03;\012sub one by one.ss03;\012sub two by two.ss03;\012sub three by three.ss03;\012sub four by four.ss03;\012sub five by five.ss03;\012sub six by six.ss03;\012sub seven by seven.ss03;\012sub eight by eight.ss03;\012sub nine by nine.ss03;\012sub One-roman by One-roman.ss03;\012sub Two-roman by Two-roman.ss03;\012sub Three-roman by Three-roman.ss03;\012sub Four-roman by Four-roman.ss03;\012sub Five-roman by Five-roman.ss03;\012sub Six-roman by Six-roman.ss03;\012sub Seven-roman by Seven-roman.ss03;\012sub Eight-roman by Eight-roman.ss03;\012sub Nine-roman by Nine-roman.ss03;\012sub Ten-roman by Ten-roman.ss03;\012sub Eleven-roman by Eleven-roman.ss03;\012sub Twelve-roman by Twelve-roman.ss03;\012sub Fifty-roman by Fifty-roman.ss03;\012sub Hundred-roman by Hundred-roman.ss03;\012sub Fivehundred-roman by Fivehundred-roman.ss03;\012sub Thousand-roman by Thousand-roman.ss03;\012sub one-roman by one-roman.ss03;\012sub two-roman by two-roman.ss03;\012sub three-roman by three-roman.ss03;\012sub four-roman by four-roman.ss03;\012sub five-roman by five-roman.ss03;\012sub six-roman by six-roman.ss03;\012sub seven-roman by seven-roman.ss03;\012sub eight-roman by eight-roman.ss03;\012sub nine-roman by nine-roman.ss03;\012sub ten-roman by ten-roman.ss03;\012sub eleven-roman by eleven-roman.ss03;\012sub twelve-roman by twelve-roman.ss03;\012sub fifty-roman by fifty-roman.ss03;\012sub hundred-roman by hundred-roman.ss03;\012sub fivehundred-roman by fivehundred-roman.ss03;\012sub onethousand-roman by onethousand-roman.ss03;\012sub period by period.ss03;\012sub comma by comma.ss03;\012sub colon by colon.ss03;\012sub semicolon by semicolon.ss03;\012sub ellipsis by ellipsis.ss03;\012sub exclam by exclam.ss03;\012sub exclamdown by exclamdown.ss03;\012sub question by question.ss03;\012sub questiondown by questiondown.ss03;\012sub periodcentered by periodcentered.ss03;\012sub asterisk by asterisk.ss03;\012sub exclamationquestion by exclamationquestion.ss03;\012sub exclamdouble by exclamdouble.ss03;\012sub interrobang by interrobang.ss03;\012sub numbersign by numbersign.ss03;\012sub doublequestion by doublequestion.ss03;\012sub questionexclamation by questionexclamation.ss03;\012sub slash by slash.ss03;\012sub backslash by backslash.ss03;\012sub parenleftinferior by parenleftinferior.ss03;\012sub parenrightinferior by parenrightinferior.ss03;\012sub parenleft by parenleft.ss03;\012sub parenright by parenright.ss03;\012sub braceleft by braceleft.ss03;\012sub braceright by braceright.ss03;\012sub bracketleft by bracketleft.ss03;\012sub bracketright by bracketright.ss03;\012sub hyphen by hyphen.ss03;\012sub softhyphen by softhyphen.ss03;\012sub endash by endash.ss03;\012sub emdash by emdash.ss03;\012sub figuredash by figuredash.ss03;\012sub horizontalbar by horizontalbar.ss03;\012sub quotesinglbase by quotesinglbase.ss03;\012sub quotedblbase by quotedblbase.ss03;\012sub quotedblleft by quotedblleft.ss03;\012sub quotedblright by quotedblright.ss03;\012sub quoteleft by quoteleft.ss03;\012sub quoteright by quoteright.ss03;\012sub quotereversed by quotereversed.ss03;\012sub quotedblrightreversed by quotedblrightreversed.ss03;\012sub doubleprimeReversed by doubleprimeReversed.ss03;\012sub primeReversed by primeReversed.ss03;\012sub tripleprime by tripleprime.ss03;\012sub tripleprimeReversed by tripleprimeReversed.ss03;\012sub questiongreek by questiongreek.ss03;\012sub whitestar by whitestar.ss03;\012sub whiteSmilingFace by whiteSmilingFace.ss03;\012sub spadeBlackSuit by spadeBlackSuit.ss03;\012sub clubBlackSuit by clubBlackSuit.ss03;\012sub heartBlackSuit by heartBlackSuit.ss03;\012sub diamondBlackSuit by diamondBlackSuit.ss03;\012sub whiteStar.circled by whiteStar.circled.ss03;\012";
-name = ss03;
 },
 {
 automatic = 1;
@@ -24220,7 +24218,7 @@ unicode = 0153;
 {
 color = 7;
 glyphname = p;
-lastChange = "2019-10-14 17:09:05 +0000";
+lastChange = "2020-09-14 22:22:52 +0000";
 layers = (
 {
 anchors = (
@@ -24230,7 +24228,7 @@ position = "{439, 0}";
 },
 {
 name = center;
-position = "{235, -97}";
+position = "{235, -129}";
 },
 {
 name = top;
@@ -24301,8 +24299,8 @@ nodes = (
 "307 532 LINE",
 "217 532 LINE",
 "233 237 LINE",
-"153 -212 LINE",
-"282 -204 LINE",
+"145 -252 LINE",
+"274 -244 LINE",
 "325 82 LINE"
 );
 },
@@ -24385,8 +24383,8 @@ nodes = (
 "361 559 LINE",
 "221 559 LINE",
 "239 239 LINE",
-"153 -241 LINE",
-"338 -230 LINE",
+"148 -287 LINE",
+"333 -276 LINE",
 "375 16 LINE"
 );
 },
@@ -24637,7 +24635,7 @@ unicode = 00FE;
 },
 {
 glyphname = pmiddletilde;
-lastChange = "2019-10-11 16:04:51 +0000";
+lastChange = "2020-09-14 22:22:58 +0000";
 layers = (
 {
 components = (
@@ -24647,7 +24645,7 @@ name = p;
 {
 anchor = center;
 name = tilde;
-transform = "{1.17034, 0, 0, 0.73998, -40, -588}";
+transform = "{1.17034, 0, 0, 1.00038, -40, -793}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -24661,7 +24659,7 @@ name = p;
 {
 anchor = center;
 name = tilde;
-transform = "{1.57096, 0, 0, 0.59829, -123, -541}";
+transform = "{1.57096, 0, 0, 0.76491, -123, -650}";
 }
 );
 layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
