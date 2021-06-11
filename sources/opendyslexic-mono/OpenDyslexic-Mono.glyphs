@@ -1,6 +1,6 @@
 {
-.appVersion = "1075";
-copyright = "Original Fonts are © Bitstream. OpenDyslexic changes and additional glyphs by Abelardo Gonzalez are licensed under a Creative Commons Attribution 3.0 Unported License.\012Based on a work at http://dyslexicfonts.com. ♡2012 by Abelardo Gonzalez. Copying is an act of love. Please copy.\012Bitstream license available here: http://opendyslexic.org/legal/";
+.appVersion = "1352";
+copyright = "Copyright © 2019 by Abbie Gonzalez. All rights reserved.";
 customParameters = (
 {
 name = glyphOrder;
@@ -285,7 +285,7 @@ value = (
 },
 {
 name = license;
-value = "Fonts are © Bitstream. OpenDyslexic changes and additional glyphs by Abelardo Gonzalez are licensed under a Creative Commons Attribution 3.0 Unported License.\012Based on a work at http://dyslexicfonts.com. ♡2012 by Abelardo Gonzalez. Copying is an act of love. Please copy.\012Bitstream license available here: http://opendyslexic.org/legal/";
+value = "Copyright (c) 2019-07-29, Abbie Gonzalez (https://abbiecod.es|support@abbiecod.es),\012with Reserved Font Name OpenDyslexic.\012Copyright (c) 12/2012 - 2019\012This Font Software is licensed under the SIL Open Font License, Version 1.1.\012This license is copied below, and is also available with a FAQ at:\012http://scripts.sil.org/OFL\012\012\012-----------------------------------------------------------\012SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007\012-----------------------------------------------------------\012\012PREAMBLE\012The goals of the Open Font License (OFL) are to stimulate worldwide\012development of collaborative font projects, to support the font creation\012efforts of academic and linguistic communities, and to provide a free and\012open framework in which fonts may be shared and improved in partnership\012with others.\012\012The OFL allows the licensed fonts to be used, studied, modified and\012redistributed freely as long as they are not sold by themselves. The\012fonts, including any derivative works, can be bundled, embedded, \012redistributed and/or sold with any software provided that any reserved\012names are not used by derivative works. The fonts and derivatives,\012however, cannot be released under any other type of license. The\012requirement for fonts to remain under this license does not apply\012to any document created using the fonts or their derivatives.\012\012DEFINITIONS\012\"Font Software\" refers to the set of files released by the Copyright\012Holder(s) under this license and clearly marked as such. This may\012include source files, build scripts and documentation.\012\012\"Reserved Font Name\" refers to any names specified as such after the\012copyright statement(s).\012\012\"Original Version\" refers to the collection of Font Software components as\012distributed by the Copyright Holder(s).\012\012\"Modified Version\" refers to any derivative made by adding to, deleting,\012or substituting -- in part or in whole -- any of the components of the\012Original Version, by changing formats or by porting the Font Software to a\012new environment.\012\012\"Author\" refers to any designer, engineer, programmer, technical\012writer or other person who contributed to the Font Software.\012\012PERMISSION & CONDITIONS\012Permission is hereby granted, free of charge, to any person obtaining\012a copy of the Font Software, to use, study, copy, merge, embed, modify,\012redistribute, and sell modified and unmodified copies of the Font\012Software, subject to the following conditions:\012\0121) Neither the Font Software nor any of its individual components,\012in Original or Modified Versions, may be sold by itself.\012\0122) Original or Modified Versions of the Font Software may be bundled,\012redistributed and/or sold with any software, provided that each copy\012contains the above copyright notice and this license. These can be\012included either as stand-alone text files, human-readable headers or\012in the appropriate machine-readable metadata fields within text or\012binary files as long as those fields can be easily viewed by the user.\012\0123) No Modified Version of the Font Software may use the Reserved Font\012Name(s) unless explicit written permission is granted by the corresponding\012Copyright Holder. This restriction only applies to the primary font name as\012presented to the users.\012\0124) The name(s) of the Copyright Holder(s) or the Author(s) of the Font\012Software shall not be used to promote, endorse or advertise any\012Modified Version, except to acknowledge the contribution(s) of the\012Copyright Holder(s) and the Author(s) or with their explicit written\012permission.\012\0125) The Font Software, modified or unmodified, in part or in whole,\012must be distributed entirely under this license, and must not be\012distributed under any other license. The requirement for fonts to\012remain under this license does not apply to any document created\012using the Font Software.\012\012TERMINATION\012This license becomes null and void if any of the above conditions are\012not met.\012\012DISCLAIMER\012THE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,\012EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF\012MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT\012OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE\012COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,\012INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL\012DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING\012FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM\012OTHER DEALINGS IN THE FONT SOFTWARE.\012";
 },
 {
 name = isFixedPitch;
@@ -313,7 +313,7 @@ value = (
 );
 }
 );
-date = "2013-02-08 22:25:27 +0000";
+date = "2021-05-15 17:00:34 +0000";
 designer = "Abbie Gonzalez";
 designerURL = "http://abbiecod.es";
 disablesNiceNames = 1;
@@ -4672,6 +4672,7 @@ hints = (
 {
 horizontal = 1;
 place = "{-216, 88}";
+type = Stem;
 }
 );
 layerId = "6B6936E6-7670-4A82-900D-EAF583C971AF";
@@ -4854,6 +4855,7 @@ position = "{134, 150}";
 hints = (
 {
 place = "{99, 65}";
+type = Stem;
 }
 );
 layerId = "6B6936E6-7670-4A82-900D-EAF583C971AF";
@@ -5884,17 +5886,21 @@ layers = (
 hints = (
 {
 place = "{141, 115}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{497, 63}";
+type = Stem;
 },
 {
 horizontal = 1;
 place = "{-3, 140}";
+type = Stem;
 },
 {
 place = "{562, 63}";
+type = Stem;
 }
 );
 layerId = "6B6936E6-7670-4A82-900D-EAF583C971AF";
@@ -18305,27 +18311,6 @@ width = 732;
 unicode = 1E92;
 },
 {
-export = 0;
-glyphname = IJ;
-lastChange = "2017-12-05 02:54:44 +0000";
-layers = (
-{
-components = (
-{
-name = I;
-},
-{
-name = J;
-transform = "{1, 0, 0, 1, 732, 0}";
-}
-);
-layerId = "6B6936E6-7670-4A82-900D-EAF583C971AF";
-width = 1464;
-}
-);
-unicode = 0132;
-},
-{
 glyphname = abreve;
 lastChange = "2017-12-05 02:54:35 +0000";
 layers = (
@@ -21064,27 +21049,6 @@ width = 732;
 }
 );
 unicode = 1E93;
-},
-{
-export = 0;
-glyphname = ij;
-lastChange = "2017-12-05 02:55:41 +0000";
-layers = (
-{
-components = (
-{
-name = i;
-},
-{
-name = j;
-transform = "{1, 0, 0, 1, 732, 0}";
-}
-);
-layerId = "6B6936E6-7670-4A82-900D-EAF583C971AF";
-width = 1464;
-}
-);
-unicode = 0133;
 },
 {
 export = 0;
