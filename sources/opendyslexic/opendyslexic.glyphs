@@ -2,7 +2,8 @@
 .appVersion = "3260";
 DisplayStrings = (
 "THE/space QUICK/space BROWN/space FOX/space JUMPS/space OVER/space THE/space LAZY/space DOG\012the/space quick/space brown/space fox/space jumps/space over/space the/space lazy/space dog\012Spacing\012nanbncndnenfngnhninjnknlnmnnonpnqnrnsntnunvnwnxnynzn\012HAHBHCHDHEHFHGHHIHJHKHLHMHNHOHPHQHRHSHTHUHVHWHXHYHZH\0120102030405060708090\012lower/space case//lower/space case\012aufkauf/space aufhalt/space aufbleib\012ver/fl ixt/space auflassen/space \012ho/f_f e/space auffassen\012/fi le/space aufißt/space raufjagen/space f/idotless ne\012auf/fi nden/space Tief/fl ieger\012Sto/f_f los/space Mu/f_f on/space Sto/f_f igel/space O/f_f zier\012Ra/f_f band/space Tu/f_f höhle/space Su/f_f kopp/space \012führen/space fördern/space fähre\012wegjagen/space Bargfeld\012kyrie/space afro/space arte/space axe/space luvwärts\012Gevatter/space wann/space \012ever/space gewettet/space severe\012davon/space gewonnen/space down\012wichtig/space recken\012ndn/dcroat h/space/dcaron o/dcaron h\012/lcaron l/space/lcaron o/space d/lslash h\012Versal//Kleinbuchstaben\012Farbe/space Fest/space Firn/space Fjord/space Font\012Frau/space Fuß/space Fähre/space Förde/space Füße\012Rest/space Rohr/space Röhre/space Rymer\012Test/space Tod/space Tauf/space Tim/space Tja/space Turm\012Traum/space Tsara/space Twist/space Tyrol\012Tüte/space Töten/space Täter/space TéTêTèVeste/space Vogel/space VéVêVèVater/space Vijf/space Vlut/space Vulkan\012Vytautas/space Vroni/space Väter/space Vögel/space Vs/space Ws/space Vz/space Wz\012Weste/space Wolf/space Wüste/space Wörpe/space Wärter/space Waage/space Wiege/space Wlasta\012Wurst/space Wyhl/space Wrasen\012Yeats/space Yoni/space auf/space Yqem\012Yak/space Ybbs/space Yggdrasil/space Yps\012Ysop/space Ytong/space Yuma\012Versal//Versal\012ATK/space AVI/space AWL/space AYN/space LTK\012LVI/space LWL/space LYN/space/Lcaron V/space/Lcaron TH\012RTK/space TVI/space RWL/space RYN\012TABULA/space VATER/space WASSER\012YAKUZA/space FABEL/space PAPST\012UNÐE/space H/Dcroat \012letter//punctuation\012Ich/space rufe:/space also/space komm;/space danke\012Somit:/space haben/space wir;/space hinauf:/space das\012Er/space will?/space Ich/space soll!/space Er/space kann\012hinauf!/space herauf?/space Su/f_f ?/space Ka/f_f !\012¿Spanisch?/space ¡Natürlich!\012was?!/space wie!?/space was!!/space wie??\012Wer/space kann,/space kann./space Wer,/space der.\012Sauf,/space rauf./space Su/f_f ,/space Ka/f_f ./space Sag,/space sag.\012luv./space law./space my./space luv,/space law,/space my,\012(DAT)/space (fünf)/space (young)/space (/fl u/f_f )\012(lall)/space (pas/space cinq)/space (gaz)/space (§)\012(jagen)/space (Jedermann)\012[greif]/space [jung]/space [JUT]/space [hohl]\012reif/quotedblleft/space ruf/quoteleft/space seif/quotedblleft/space auf*/space/space ho/f_f/quotedblleft \012T./space S./space Eliot/space L./space W./space Dupont\012V./space K./space Smith/space P./space A./space Meier\012A./space Y./space Jones/space F./space R./space Miller\012X./space ä./space Schulze\012quotation/space mark\012/guilsinglleft/guilsinglright «»/quotedblbase/quotedblleft/quotedblright/quotesinglbase/quoteleft/quoteright \012«habe/space recht»/space «die»\012»Wir«/space »Tim«/space »Viel«/space »Ybbs«\012«Wir»/space «Tim»/space «Viel»/space «Ybbs»\012»OUT«/space »MIV«/space »JAW«/space »AY«\012«OUT»/space «MIV»/space «JAW»/space «AY»\012/guilsinglright OUT/guilsinglleft/space/guilsinglright MIV/guilsinglleft/space/guilsinglright JAW/guilsinglleft/space/guilsinglright AY/guilsinglleft \012/guilsinglleft OUT/guilsinglright/space/guilsinglleft MIV/guilsinglright/space/guilsinglleft JAW/guilsinglright/space/guilsinglleft AY/guilsinglright \012/quotesinglbase ja/quoteleft/space/quotesinglbase Ja/quoteleft/space/quotedblbase ja/quotedblleft/space/quotedblbase Ja/quotedblleft/space/quotesinglbase ga/quoteleft/space/space/quotedblbase ga/quotedblleft \012/quotedblbase Tag/quotedblleft/space/quotedblbase Vau/quotedblleft/space/quotedblbase Wal/quotedblleft/space/quotedblbase Yep/quotedblleft \012/quotesinglbase Tag/quoteleft/space/quotesinglbase Vau/quoteleft/space/quotesinglbase Wal/quoteleft/space/quotesinglbase Yep/quoteleft \012/quotedblleft Bus/quotedblright/space/quotedblleft Van/quotedblright/space/quotedblleft Jon/quotedblright/space/quotedblleft lone/quotedblright/space/quotedblleft Al/quotedblright \012/quoteleft Bus/quotedblleft/space/quoteleft Van/quotedblleft/space/quoteleft Jon/quotedblleft/space/quoteleft lone/quotedblleft/space/quoteleft Al/quotedblleft \012»/endash/space bei/space/endash «/space »/emdash/space und/space/emdash «/guilsinglright/endash/space bei/space/endash/guilsinglleft/space/guilsinglright/emdash/space und/space/emdash/guilsinglleft \012«/endash/space bei/space/endash »/space «/emdash/space und/space/emdash »/guilsinglleft/endash/space bei/space/endash/guilsinglright/space/guilsinglleft/emdash/space und/space/emdash/guilsinglright \012punctuation/space mark\012sic/space (!)/space ...,/space nun/space (?)/space .../space da\012hinauf/space ...;/space dahin/space ...:\012hinauf/space ...!/space hin/space ...?!/space Toll/quotedblleft ,/space leg/quotedblleft .\012nun/space (...)/space und/space ([...]/space sein\012»sie«./space »das«,/space »an«;/space »ich«:\012«sie»./space «das»,/space «an»;/space «ich»:\012»sie.«/space »das,«/space »an!«/space »ich?«\012«sie.»/space «das,»/space «an!»/space «ich?»\012/guilsinglright sie/guilsinglleft ./space/guilsinglright da/guilsinglleft ,/space/guilsinglright an/guilsinglleft ;/space/guilsinglright ich/guilsinglleft :/space \012/guilsinglleft sie/guilsinglright ./space/guilsinglleft das/guilsinglright ,/space/guilsinglleft an/guilsinglright ;/space/guilsinglleft ich/guilsinglright :\012/guilsinglright sie./guilsinglleft/space/guilsinglright das,/guilsinglleft/space/guilsinglright an!/guilsinglleft/space/guilsinglright ich?/guilsinglleft \012/guilsinglleft sie./guilsinglright/space/guilsinglleft das,/guilsinglright/space/guilsinglleft an!/guilsinglright/space/guilsinglleft ich?/guilsinglright \012Mir!,/space das?,/space Ich!:/space Sie?:\012Mir!;/space das?;/space (»sie«)/space (/guilsinglright sie/guilsinglleft )\012nun/space/endash ,/space hier/space/endash .60/space nun/space/endash :/space hier/space/endash ;\012Eil-Tat-Van-Wal-Alk-\012auf/space 48/endash 67/space und/space 25/emdash 37/space von\012if/endash then/space well/emdash sure\012USA//Kanada/space SWF//Abend\012Gauß//Ohm/space 41//56/space den//die\012auf//fall/space den//im/space den//ärger\012da//leider/space auf//aber/space I//I\012etwa/space 50%/space haben/space 37°/space im\012£50/space und/space ¥20/space sind/space $30/space und/space/euro 60\012den/space §235/space sowie/space #35/space \0124mal/space Seite/space 3f/space und/space 12/f_f .\012Der/space §45a/space in/space den/space 20ern\012figures\01200102030405060708090\01210112131415161718191\01220212232425262728292\01230313233435363738393\01240414243445464748494\01250515253545565758595\01260616263646566768696\01270717273747576778797\01280818283848586878898\01290919293949596979899\012.0.0.1.1.2.2.3.3.4.4.5.5.6.6.7.7.8.8.9.9.\012,0,0,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,\012:0:0:1:1:2:2:3:3:4:4:5:5:6:6:7:7:8:8:9:9:\012;0;0;1;1;2;2;3;3;4;4;5;5;6;6;7;7;8;8;9;9;\012von/space 18:30/space bis/space 20:15/space Uhr\012um/space 1995/space die/space 28184/space und\012und/space 8.8/space und/space 8,8/space da/space 8./endash 8.\012da/space 27./space es/space 38./space an/space 87,/space in/space 68,/space 674\012(96)/space (3)/space (5)/space (7)/space [96]/space [3/space [5/space [7\0122+3-4÷5-6±/greaterequal/lessequal ><\012(c)/space Friedrich/space Forssman",
-"/od_top_hook T/Thook/Thook/Thook UU/Uhorn/Upsilonafrican/od_top_hook/Vhook/Vhook W/od_top_hook W/Whook/Whook/Yhook/Yhook/acircumflexacute/acircumflexacute/bhook/bhook/bmiddletilde/dmiddletilde/dtail/dtail/eturned/eturned/eturned/eturned/ghook/ghook/hbar/hbar/ij/ij/ij/ij jj/jdotlessstrokehook/jdotlessstrokehook/lj/lj/lslash/lslash/lslash/lslash/ocircumflexacute/ocircumflexacute/qhook/qhook/qhook/qhook/qhooktail/qhooktail/qhooktail/qhooktail/sacutedotaccent/shook/shook/whook/whook/whook/whook/clickretroflex/clickretroflex/Izhitsa-cy/Izhitsa-cy/Ghemiddlehook-cy/Schwa-cy/Schwa-cy/Schwa-cy/Schwa-cy/Schwadieresis-cy/Schwadieresis-cy/Hahook-cy/Hahook-cy/ze-cy/ze-cy/ze-cy/ze-cy/je-cy/tshe-cy/tshe-cy/dje-cy/dje-cy/izhitsa-cy/izhitsa-cy/ghemiddlehook-cy/zedescender-cy/zedescender-cy/schwa-cy/schwa-cy/schwadieresis-cy/schwadieresis-cy/schwadieresis-cy/schwadieresis-cy/zedieresis-cy/zedieresis-cy/reversedze-cy/reversedze-cy/reversedze-cy/reversedze-cy/ze-cy.loclBGR/ze-cy.loclBGR/Omicrontonos/Omicrontonos/Alphapsilivaria/Alphapsiliprosgegrammeni/Alphapsiliprosgegrammeni/Alphadasiaprosgegrammeni/Alphadasiaprosgegrammeni/Alphapsilivariaprosgegrammeni/Alphapsilivariaprosgegrammeni/Alphapsilivariaprosgegrammeni/Alphadasiavariaprosgegrammeni/Alphadasiavariaprosgegrammeni/Alphapsilioxiaprosgegrammeni/Alphapsilioxiaprosgegrammeni/Alphadasiaoxiaprosgegrammeni/Alphadasiaoxiaprosgegrammeni/Alphapsiliperispomeniprosgegrammeni/Alphapsiliperispomeniprosgegrammeni/Epsilonpsili/Epsilonpsilivaria/Epsilonpsilivaria/Etapsilivaria/Etapsilivariaprosgegrammeni/Etapsilivariaprosgegrammeni/Iotapsili/Omicronpsilivaria/Omicronpsilivaria/Rhodasia/Rhodasia/Rhodasia/Rhodasia/Omegapsilivaria/Omegapsilivaria/Omegapsiliprosgegrammeni/Omegapsiliprosgegrammeni/Omegadasiaprosgegrammeni/Omegadasiaprosgegrammeni/Omegapsilivariaprosgegrammeni/Omegapsilivariaprosgegrammeni/Omegapsilivariaprosgegrammeni/Omegadasiavariaprosgegrammeni/Omegadasiavariaprosgegrammeni/Omegapsilioxiaprosgegrammeni/Omegapsilioxiaprosgegrammeni/Omegadasiaoxiaprosgegrammeni/Omegadasiaoxiaprosgegrammeni/Omegapsiliperispomeniprosgegrammeni/Omegapsiliperispomeniprosgegrammeni/Omegadasiaperispomeniprosgegrammeni/Omegadasiaperispomeniprosgegrammeni/omicrontonos/omicrontonos/alphaoxiaypogegrammeni/alphaoxiaypogegrammeni/alphaoxiaypogegrammeni/alphaoxiaypogegrammeni/alphapsiliypogegrammeni/alphapsiliypogegrammeni/etaoxiaypogegrammeni/etaoxiaypogegrammeni/etapsiliperispomeniypogegrammeni/etapsiliperispomeniypogegrammeni/raiseduparrowmod/raiseduparrowmod/zero.tf/one.tf/one.tf/two.tf/three.tf/four.tf/four.tf/five.tf/six.tf/seven.tf/eight.tf/eight.tf/nine.tf/twoinferior/twoinferior/twoinferior/twoinferior/threeinferior/threeinferior/threeinferior/threeinferior/fourinferior/fourinferior/fourinferior/fourinferior/fiveinferior/fiveinferior/fiveinferior/fiveinferior/sixinferior/sixinferior/sixinferior/sixinferior/seveninferior/seveninferior/seveninferior/seveninferior/eightinferior/eightinferior/eightinferior/eightinferior/nineinferior/nineinferior/nineinferior/nineinferior/zero.dnom/zero.dnom/zero.dnom/zero.dnom/one.dnom/one.dnom/one.dnom/one.dnom/two.dnom/two.dnom/two.dnom/two.dnom/three.dnom/three.dnom/three.dnom/three.dnom/four.dnom/four.dnom/four.dnom/four.dnom/five.dnom/five.dnom/five.dnom/five.dnom/six.dnom/six.dnom/six.dnom/six.dnom/seven.dnom/seven.dnom/seven.dnom/seven.dnom/eight.dnom/eight.dnom/eight.dnom/eight.dnom/nine.dnom/nine.dnom/nine.dnom/nine.dnom/zero.numr/zero.numr/zero.numr/zero.numr/one.numr/one.numr/one.numr/one.numr/two.numr/two.numr/three.numr/three.numr/three.numr/three.numr/four.numr/four.numr/four.numr/four.numr/five.numr/five.numr/five.numr/five.numr/six.numr/six.numr/six.numr/six.numr/seven.numr/seven.numr/seven.numr/seven.numr/eight.numr/eight.numr/eight.numr/eight.numr/nine.numr/nine.numr/nine.numr/nine.numr/zerosuperior/zerosuperior/zerosuperior/zerosuperior ¹¹¹¹²²²²³³³³/foursuperior/foursuperior/foursuperior/foursuperior/fivesuperior/fivesuperior/fivesuperior/fivesuperior/sixsuperior/sixsuperior/sixsuperior/sixsuperior/sevensuperior/sevensuperior/sevensuperior/sevensuperior/eightsuperior/eightsuperior/eightsuperior/eightsuperior/ninesuperior/ninesuperior/ninesuperior/ninesuperior/undertie/undertie/parenleftinferior/cedi/cedi/cedi/florin/florin/approxequal/approxequal/approxequal/approxequal ~~~^^^/emptyset/emptyset/fahrenheit/lowringmod/lowringmod/lowringmod/peso_lines/apostrophemod/apostrophemod/apostrophemod/dieresiscomb/dieresiscomb/dieresiscomb/dieresiscomb/dotaccentcomb/dotaccentcomb/gravecomb/acutecomb/circumflexcomb/circumflexcomb/brevecomb/ringbelowcomb/ringbelowcomb/ogonekcomb/ogonekcomb/tildebelowcomb/tildebelowcomb/tildebelowcomb/macronbelowcomb/macronbelowcomb/macronbelowcomb/tildeoverlaycomb/tildeoverlaycomb/tildeoverlaycomb/nottildeabovecomb/nottildeabovecomb/homotheticabovecomb/almostequaltoabovecomb/almostequaltoabovecomb/almostequaltoabovecomb/almostequaltoabovecomb/arrowleftrightbelowcomb/arrowleftrightbelowcomb/hungarumlaut/hungarumlaut/hungarumlaut/hungarumlaut/circumflex/circumflex/koroniscomb/koroniscomb/koroniscomb/tonos.case/tonos.case/koronis.case/dasia/dasia/dasia/psilivaria/psilivaria/psilivaria/dasiavaria/dasiavaria/dasiavaria/dasiavaria/dasiavaria.case/dasiavaria.case/dasiavaria.case/psilioxia/psilioxia/psilioxia/psilioxia.case/dasiaoxia/dasiaoxia/dasiaoxia/dasiaoxia/dasiaoxia.case/dasiaoxia.case/dasiaoxia.case/dasiaoxia.case/psiliperispomeni/psiliperispomeni/psiliperispomeni.case/psiliperispomeni.case/psiliperispomeni.case/dasiaperispomeni/dasiaperispomeni.case/dasiaperispomeni.case/varia.case/varia.case/oxia.case/oxia.case/perispomeni/perispomeni/perispomeni.case/perispomeni.case/psilivaria.case/psilivaria.case/colonsignbars/colonsignbars/colonsignbars/colonsignbars/od_k_hook/od_k_hook/od_k_hook/od_k_hook"
+"/od_top_hook T/Thook/Thook/Thook UU/Uhorn/Upsilonafrican/od_top_hook/Vhook/Vhook/Whook Y/Yhook Y/Yhook aaâ/acircumflexacute/acircumflexacute/bhook/bhook/bmiddletilde/dmiddletilde/dtail/dtail/eturned/eturned/eturned/eturned/ghook/ghook/hbar/hbar/ij/ij/ij/ij jj/jdotlessstrokehook/jdotlessstrokehook/lj/lj/lslash/lslash/lslash/lslash/ocircumflexacute/ocircumflexacute/qhook/qhook/qhook/qhook/qhooktail/qhooktail/qhooktail/qhooktail/sacutedotaccent/shook/shook/whook/whook/whook/whook/clickretroflex/clickretroflex/Izhitsa-cy/Izhitsa-cy/Ghemiddlehook-cy/Schwa-cy/Schwa-cy/Schwa-cy/Schwa-cy/Schwadieresis-cy/Schwadieresis-cy/Hahook-cy/Hahook-cy/ze-cy/ze-cy/ze-cy/ze-cy/je-cy/tshe-cy/tshe-cy/dje-cy/dje-cy/izhitsa-cy/izhitsa-cy/ghemiddlehook-cy/zedescender-cy/zedescender-cy/schwa-cy/schwa-cy/schwadieresis-cy/schwadieresis-cy/schwadieresis-cy/schwadieresis-cy/zedieresis-cy/zedieresis-cy/reversedze-cy/reversedze-cy/reversedze-cy/reversedze-cy/ze-cy.loclBGR/ze-cy.loclBGR/Omicrontonos/Omicrontonos/Alphapsilivaria/Alphapsiliprosgegrammeni/Alphapsiliprosgegrammeni/Alphadasiaprosgegrammeni/Alphadasiaprosgegrammeni/Alphapsilivariaprosgegrammeni/Alphapsilivariaprosgegrammeni/Alphapsilivariaprosgegrammeni/Alphadasiavariaprosgegrammeni/Alphadasiavariaprosgegrammeni/Alphapsilioxiaprosgegrammeni/Alphapsilioxiaprosgegrammeni/Alphadasiaoxiaprosgegrammeni/Alphadasiaoxiaprosgegrammeni/Alphapsiliperispomeniprosgegrammeni/Alphapsiliperispomeniprosgegrammeni/Epsilonpsili/Epsilonpsilivaria/Epsilonpsilivaria/Etapsilivaria/Etapsilivariaprosgegrammeni/Etapsilivariaprosgegrammeni/Iotapsili/Omicronpsilivaria/Omicronpsilivaria/Rhodasia/Rhodasia/Rhodasia/Rhodasia/Omegapsilivaria/Omegapsilivaria/Omegapsiliprosgegrammeni/Omegapsiliprosgegrammeni/Omegadasiaprosgegrammeni/Omegadasiaprosgegrammeni/Omegapsilivariaprosgegrammeni/Omegapsilivariaprosgegrammeni/Omegapsilivariaprosgegrammeni/Omegadasiavariaprosgegrammeni/Omegadasiavariaprosgegrammeni/Omegapsilioxiaprosgegrammeni/Omegapsilioxiaprosgegrammeni/Omegadasiaoxiaprosgegrammeni/Omegadasiaoxiaprosgegrammeni/Omegapsiliperispomeniprosgegrammeni/Omegapsiliperispomeniprosgegrammeni/Omegadasiaperispomeniprosgegrammeni/Omegadasiaperispomeniprosgegrammeni/omicrontonos/omicrontonos/alphaoxiaypogegrammeni/alphaoxiaypogegrammeni/alphaoxiaypogegrammeni/alphaoxiaypogegrammeni/alphapsiliypogegrammeni/alphapsiliypogegrammeni/etaoxiaypogegrammeni/etaoxiaypogegrammeni/etapsiliperispomeniypogegrammeni/etapsiliperispomeniypogegrammeni/raiseduparrowmod/raiseduparrowmod/zero.tf/one.tf/one.tf/two.tf/three.tf/four.tf/four.tf/five.tf/six.tf/seven.tf/eight.tf/eight.tf/nine.tf/twoinferior/twoinferior/twoinferior/twoinferior/threeinferior/threeinferior/threeinferior/threeinferior/fourinferior/fourinferior/fourinferior/fourinferior/fiveinferior/fiveinferior/fiveinferior/fiveinferior/sixinferior/sixinferior/sixinferior/sixinferior/seveninferior/seveninferior/seveninferior/seveninferior/eightinferior/eightinferior/eightinferior/eightinferior/nineinferior/nineinferior/nineinferior/nineinferior/zero.dnom/zero.dnom/zero.dnom/zero.dnom/one.dnom/one.dnom/one.dnom/one.dnom/two.dnom/two.dnom/two.dnom/two.dnom/three.dnom/three.dnom/three.dnom/three.dnom/four.dnom/four.dnom/four.dnom/four.dnom/five.dnom/five.dnom/five.dnom/five.dnom/six.dnom/six.dnom/six.dnom/six.dnom/seven.dnom/seven.dnom/seven.dnom/seven.dnom/eight.dnom/eight.dnom/eight.dnom/eight.dnom/nine.dnom/nine.dnom/nine.dnom/nine.dnom/zero.numr/zero.numr/zero.numr/zero.numr/one.numr/one.numr/one.numr/one.numr/two.numr/two.numr/three.numr/three.numr/three.numr/three.numr/four.numr/four.numr/four.numr/four.numr/five.numr/five.numr/five.numr/five.numr/six.numr/six.numr/six.numr/six.numr/seven.numr/seven.numr/seven.numr/seven.numr/eight.numr/eight.numr/eight.numr/eight.numr/nine.numr/nine.numr/nine.numr/nine.numr/zerosuperior/zerosuperior/zerosuperior/zerosuperior ¹¹¹¹²²²²³³³³/foursuperior/foursuperior/foursuperior/foursuperior/fivesuperior/fivesuperior/fivesuperior/fivesuperior/sixsuperior/sixsuperior/sixsuperior/sixsuperior/sevensuperior/sevensuperior/sevensuperior/sevensuperior/eightsuperior/eightsuperior/eightsuperior/eightsuperior/ninesuperior/ninesuperior/ninesuperior/ninesuperior/undertie/undertie/parenleftinferior/cedi/cedi/cedi/florin/florin/approxequal/approxequal/approxequal/approxequal ~~~^^^/emptyset/emptyset/fahrenheit/lowringmod/lowringmod/lowringmod/peso_lines/apostrophemod/apostrophemod/apostrophemod/dieresiscomb/dieresiscomb/dieresiscomb/dieresiscomb/dotaccentcomb/dotaccentcomb/gravecomb/acutecomb/circumflexcomb/circumflexcomb/brevecomb/ringbelowcomb/ringbelowcomb/ogonekcomb/ogonekcomb/tildebelowcomb/tildebelowcomb/tildebelowcomb/macronbelowcomb/macronbelowcomb/macronbelowcomb/tildeoverlaycomb/tildeoverlaycomb/tildeoverlaycomb/nottildeabovecomb/nottildeabovecomb/homotheticabovecomb/almostequaltoabovecomb/almostequaltoabovecomb/almostequaltoabovecomb/almostequaltoabovecomb/arrowleftrightbelowcomb/arrowleftrightbelowcomb/hungarumlaut/hungarumlaut/hungarumlaut/hungarumlaut/circumflex/circumflex/koroniscomb/koroniscomb/koroniscomb/tonos.case/tonos.case/koronis.case/dasia/dasia/dasia/psilivaria/psilivaria/psilivaria/dasiavaria/dasiavaria/dasiavaria/dasiavaria/dasiavaria.case/dasiavaria.case/dasiavaria.case/psilioxia/psilioxia/psilioxia/psilioxia.case/dasiaoxia/dasiaoxia/dasiaoxia/dasiaoxia/dasiaoxia.case/dasiaoxia.case/dasiaoxia.case/dasiaoxia.case/psiliperispomeni/psiliperispomeni/psiliperispomeni.case/psiliperispomeni.case/psiliperispomeni.case/dasiaperispomeni/dasiaperispomeni.case/dasiaperispomeni.case/varia.case/varia.case/oxia.case/oxia.case/perispomeni/perispomeni/perispomeni.case/perispomeni.case/psilivaria.case/psilivaria.case/colonsignbars/colonsignbars/colonsignbars/colonsignbars/od_k_hook/od_k_hook/od_k_hook/od_k_hook",
+"/od_top_hook_W"
 );
 classes = (
 {
@@ -1903,7 +1904,7 @@ name = B;
 },
 {
 name = od_top_hook;
-transform = "{1, 0, 0, 1, -51, 315}";
+transform = "{1, 0, 0, 1, -27, 315}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -4626,7 +4627,7 @@ name = H;
 },
 {
 name = od_top_hook;
-transform = "{1, 0, 0, 1, -47, 314}";
+transform = "{1, 0, 0, 1, -23, 314}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -8370,7 +8371,7 @@ name = P;
 },
 {
 name = od_top_hook;
-transform = "{1, 0, 0, 1, -24, 318}";
+transform = "{1, 0, 0, 1, 0, 318}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -9878,7 +9879,7 @@ unicode = 1E6C;
 },
 {
 glyphname = Thook;
-lastChange = "2024-06-21 19:27:38 +0000";
+lastChange = "2024-06-21 21:36:34 +0000";
 layers = (
 {
 components = (
@@ -11198,7 +11199,7 @@ unicode = 0194;
 },
 {
 glyphname = Vhook;
-lastChange = "2024-06-21 19:27:19 +0000";
+lastChange = "2024-06-21 21:36:25 +0000";
 layers = (
 {
 components = (
@@ -11207,7 +11208,7 @@ name = U;
 },
 {
 name = od_top_hook;
-transform = "{-1.66927, 0, 0.14644, 1, 992, 467}";
+transform = "{-1.66927, 0, 0.14644, 1, 952, 467}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -11292,7 +11293,7 @@ unicode = 0245;
 {
 color = 6;
 glyphname = W;
-lastChange = "2024-06-21 19:26:45 +0000";
+lastChange = "2024-06-21 21:41:17 +0000";
 layers = (
 {
 anchors = (
@@ -11310,7 +11311,7 @@ position = "{709, 916}";
 },
 {
 name = top_hook;
-position = "{1304, 560}";
+position = "{1141, 779}";
 }
 );
 hints = (
@@ -11360,7 +11361,7 @@ position = "{706, 977}";
 },
 {
 name = top_hook;
-position = "{1240, 560}";
+position = "{1134, 779}";
 }
 );
 layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
@@ -11523,7 +11524,7 @@ unicode = 1E80;
 },
 {
 glyphname = Whook;
-lastChange = "2019-11-17 15:45:07 +0000";
+lastChange = "2024-06-21 21:41:17 +0000";
 layers = (
 {
 components = (
@@ -11535,6 +11536,10 @@ transform = "{1, 0, 0, 1, -70, 0}";
 {
 name = od_top_hook;
 transform = "{0.01175, -1.05911, -6864.50834, -85.10649, 1528, 900}";
+},
+{
+name = od_top_hook_W;
+transform = "{1, 0, 0, 1, 1001, 499}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -11546,12 +11551,12 @@ components = (
 name = W;
 },
 {
-name = od_top_hook;
-transform = "{-0.03577, -0.99936, -0.99936, 0.03577, 1424, 850}";
+name = od_top_hook_W;
+transform = "{1, 0, 0, 1, 1038, 541}";
 }
 );
 layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
-width = 1775;
+width = 1424;
 }
 );
 unicode = 2C72;
@@ -11651,7 +11656,7 @@ unicode = 0058;
 {
 color = 6;
 glyphname = Y;
-lastChange = "2019-11-02 03:17:04 +0000";
+lastChange = "2024-06-21 21:42:32 +0000";
 layers = (
 {
 anchors = (
@@ -11669,7 +11674,7 @@ position = "{531, 963}";
 },
 {
 name = top_hook;
-position = "{930, 565}";
+position = "{936, 761}";
 },
 {
 name = topleft;
@@ -11719,7 +11724,7 @@ position = "{530, 1068}";
 },
 {
 name = top_hook;
-position = "{983, 560}";
+position = "{915, 677}";
 },
 {
 name = topleft;
@@ -11916,7 +11921,7 @@ unicode = 1EF2;
 },
 {
 glyphname = Yhook;
-lastChange = "2024-06-21 19:27:19 +0000";
+lastChange = "2024-06-21 21:42:32 +0000";
 layers = (
 {
 components = (
@@ -11926,7 +11931,7 @@ name = Y;
 {
 locked = 1;
 name = od_top_hook;
-transform = "{-1, -0.61087, 0, 1, 1044, 291}";
+transform = "{-1, -0.61087, 0, 1, 1026, 487}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -11939,7 +11944,7 @@ name = Y;
 },
 {
 name = od_top_hook;
-transform = "{-1.08944, -0.34907, 0, 1, 1119, 294}";
+transform = "{-1.08944, -0.34907, 0, 1, 1051, 411}";
 }
 );
 layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
@@ -12669,7 +12674,7 @@ unicode = 028F;
 {
 color = 7;
 glyphname = a;
-lastChange = "2020-09-07 22:37:55 +0000";
+lastChange = "2024-06-21 21:43:12 +0000";
 layers = (
 {
 anchors = (
@@ -12687,7 +12692,7 @@ position = "{619, 50}";
 },
 {
 name = dotbelow;
-position = "{391, -8}";
+position = "{397, -3}";
 },
 {
 name = top;
@@ -14792,7 +14797,7 @@ unicode = 1E05;
 },
 {
 glyphname = bhook;
-lastChange = "2024-06-21 19:27:19 +0000";
+lastChange = "2024-06-21 21:36:25 +0000";
 layers = (
 {
 components = (
@@ -14801,7 +14806,7 @@ name = b;
 },
 {
 name = od_top_hook;
-transform = "{1.48708, 0.09078, -0.1235, 0.96472, 76, 446}";
+transform = "{1.48708, 0.09078, -0.1235, 0.96472, 111, 447}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -15929,7 +15934,7 @@ name = d;
 },
 {
 name = od_top_hook;
-transform = "{1, 0, 0, 1, 514, 464}";
+transform = "{1, 0, 0, 1, 538, 464}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -27180,7 +27185,7 @@ name = t;
 },
 {
 name = od_top_hook;
-transform = "{1, 0, 0, 1, 213, 328}";
+transform = "{1, 0, 0, 1, 237, 328}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -28998,7 +29003,7 @@ unicode = 1E81;
 },
 {
 glyphname = whook;
-lastChange = "2024-06-21 19:27:19 +0000";
+lastChange = "2024-06-21 21:36:25 +0000";
 layers = (
 {
 components = (
@@ -29008,7 +29013,7 @@ name = w;
 {
 locked = 1;
 name = od_top_hook;
-transform = "{-1, -0.43633, 0, 1, 1087, 15}";
+transform = "{-1, -0.43633, 0, 1, 1063, 15}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -29428,7 +29433,7 @@ name = y;
 },
 {
 name = od_top_hook;
-transform = "{-1, 0, 0, 1, 860, 45}";
+transform = "{-1, 0, 0, 1, 836, 45}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -35092,7 +35097,7 @@ unicode = 0472;
 },
 {
 glyphname = "Izhitsa-cy";
-lastChange = "2024-06-21 19:27:19 +0000";
+lastChange = "2024-06-21 21:36:25 +0000";
 layers = (
 {
 components = (
@@ -35101,7 +35106,7 @@ name = V;
 },
 {
 name = od_top_hook;
-transform = "{0.96593, -0.59599, 0.2774, 1.03527, 766, 419}";
+transform = "{0.96593, -0.59599, 0.2774, 1.03527, 789, 419}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -40845,7 +40850,7 @@ unicode = 0473;
 },
 {
 glyphname = "izhitsa-cy";
-lastChange = "2024-06-21 19:27:27 +0000";
+lastChange = "2024-06-21 21:36:25 +0000";
 layers = (
 {
 components = (
@@ -40856,7 +40861,7 @@ transform = "{0.69934, 0, 0, 0.69934, 0, 0}";
 },
 {
 name = od_top_hook;
-transform = "{0.67551, -0.181, 0.181, 0.67551, 486, 327}";
+transform = "{0.67551, -0.181, 0.181, 0.67551, 502, 323}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -62606,6 +62611,21 @@ width = 4660;
 unicode = 205F;
 },
 {
+glyphname = "space-han";
+lastChange = "2019-09-02 15:01:09 +0000";
+layers = (
+{
+layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
+width = 1320;
+},
+{
+layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
+width = 1160;
+}
+);
+unicode = 3000;
+},
+{
 glyphname = .notdef;
 lastChange = "2019-11-04 20:19:18 +0000";
 layers = (
@@ -62752,21 +62772,6 @@ nodes = (
 width = 1352;
 }
 );
-},
-{
-glyphname = "space-han";
-lastChange = "2019-09-02 15:01:09 +0000";
-layers = (
-{
-layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
-width = 1320;
-},
-{
-layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
-width = 1160;
-}
-);
-unicode = 3000;
 },
 {
 glyphname = anoteleia;
@@ -85455,7 +85460,7 @@ width = 600;
 },
 {
 glyphname = od_top_hook;
-lastChange = "2024-06-21 19:26:57 +0000";
+lastChange = "2024-06-21 21:36:31 +0000";
 layers = (
 {
 anchors = (
@@ -85465,7 +85470,7 @@ position = "{100, 349}";
 },
 {
 name = _top_hook;
-position = "{114, 274}";
+position = "{90, 274}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -85531,6 +85536,79 @@ nodes = (
 }
 );
 width = 351;
+}
+);
+},
+{
+glyphname = od_top_hook_W;
+lastChange = "2024-06-21 21:40:58 +0000";
+layers = (
+{
+anchors = (
+{
+name = _top_hook;
+position = "{70, 280}";
+}
+);
+layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
+paths = (
+{
+closed = 1;
+nodes = (
+"282 443 LINE",
+"262 443 OFFCURVE",
+"234 443 OFFCURVE",
+"215 443 CURVE SMOOTH",
+"124 443 OFFCURVE",
+"10 382 OFFCURVE",
+"10 252 CURVE",
+"63 253 OFFCURVE",
+"87 255 OFFCURVE",
+"139 261 CURVE",
+"139 330 OFFCURVE",
+"185 363 OFFCURVE",
+"239 372 CURVE SMOOTH",
+"275 378 OFFCURVE",
+"345 378 OFFCURVE",
+"381 378 CURVE"
+);
+}
+);
+width = 391;
+},
+{
+anchors = (
+{
+name = _top_hook;
+position = "{96, 238}";
+}
+);
+layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
+paths = (
+{
+closed = 1;
+nodes = (
+"317 439 LINE",
+"284 439 OFFCURVE",
+"262 439 OFFCURVE",
+"242 439 CURVE SMOOTH",
+"112 439 OFFCURVE",
+"10 345 OFFCURVE",
+"10 221 CURVE",
+"38 194 LINE",
+"100 195 OFFCURVE",
+"124 198 OFFCURVE",
+"195 206 CURVE",
+"185 267 OFFCURVE",
+"211 304 OFFCURVE",
+"270 314 CURVE SMOOTH",
+"304 320 OFFCURVE",
+"372 320 OFFCURVE",
+"498 320 CURVE"
+);
+}
+);
+width = 508;
 }
 );
 },
