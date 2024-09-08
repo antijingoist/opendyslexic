@@ -1,9 +1,5 @@
 {
 .appVersion = "3260";
-DisplayStrings = (
-"THE/space QUICK/space BROWN/space FOX/space JUMPS/space OVER/space THE/space LAZY/space DOG\012the/space quick/space brown/space fox/space jumps/space over/space the/space lazy/space dog\012Spacing\012nanbncndnenfngnhninjnknlnmnnonpnqnrnsntnunvnwnxnynzn\012HAHBHCHDHEHFHGHHIHJHKHLHMHNHOHPHQHRHSHTHUHVHWHXHYHZH\0120102030405060708090\012lower/space case//lower/space case\012aufkauf/space aufhalt/space aufbleib\012ver/fl ixt/space auflassen/space \012ho/f_f e/space auffassen\012/fi le/space aufißt/space raufjagen/space f/idotless ne\012auf/fi nden/space Tief/fl ieger\012Sto/f_f los/space Mu/f_f on/space Sto/f_f igel/space O/f_f zier\012Ra/f_f band/space Tu/f_f höhle/space Su/f_f kopp/space \012führen/space fördern/space fähre\012wegjagen/space Bargfeld\012kyrie/space afro/space arte/space axe/space luvwärts\012Gevatter/space wann/space \012ever/space gewettet/space severe\012davon/space gewonnen/space down\012wichtig/space recken\012ndn/dcroat h/space/dcaron o/dcaron h\012/lcaron l/space/lcaron o/space d/lslash h\012Versal//Kleinbuchstaben\012Farbe/space Fest/space Firn/space Fjord/space Font\012Frau/space Fuß/space Fähre/space Förde/space Füße\012Rest/space Rohr/space Röhre/space Rymer\012Test/space Tod/space Tauf/space Tim/space Tja/space Turm\012Traum/space Tsara/space Twist/space Tyrol\012Tüte/space Töten/space Täter/space TéTêTèVeste/space Vogel/space VéVêVèVater/space Vijf/space Vlut/space Vulkan\012Vytautas/space Vroni/space Väter/space Vögel/space Vs/space Ws/space Vz/space Wz\012Weste/space Wolf/space Wüste/space Wörpe/space Wärter/space Waage/space Wiege/space Wlasta\012Wurst/space Wyhl/space Wrasen\012Yeats/space Yoni/space auf/space Yqem\012Yak/space Ybbs/space Yggdrasil/space Yps\012Ysop/space Ytong/space Yuma\012Versal//Versal\012ATK/space AVI/space AWL/space AYN/space LTK\012LVI/space LWL/space LYN/space/Lcaron V/space/Lcaron TH\012RTK/space TVI/space RWL/space RYN\012TABULA/space VATER/space WASSER\012YAKUZA/space FABEL/space PAPST\012UNÐE/space H/Dcroat \012letter//punctuation\012Ich/space rufe:/space also/space komm;/space danke\012Somit:/space haben/space wir;/space hinauf:/space das\012Er/space will?/space Ich/space soll!/space Er/space kann\012hinauf!/space herauf?/space Su/f_f ?/space Ka/f_f !\012¿Spanisch?/space ¡Natürlich!\012was?!/space wie!?/space was!!/space wie??\012Wer/space kann,/space kann./space Wer,/space der.\012Sauf,/space rauf./space Su/f_f ,/space Ka/f_f ./space Sag,/space sag.\012luv./space law./space my./space luv,/space law,/space my,\012(DAT)/space (fünf)/space (young)/space (/fl u/f_f )\012(lall)/space (pas/space cinq)/space (gaz)/space (§)\012(jagen)/space (Jedermann)\012[greif]/space [jung]/space [JUT]/space [hohl]\012reif/quotedblleft/space ruf/quoteleft/space seif/quotedblleft/space auf*/space/space ho/f_f/quotedblleft \012T./space S./space Eliot/space L./space W./space Dupont\012V./space K./space Smith/space P./space A./space Meier\012A./space Y./space Jones/space F./space R./space Miller\012X./space ä./space Schulze\012quotation/space mark\012/guilsinglleft/guilsinglright «»/quotedblbase/quotedblleft/quotedblright/quotesinglbase/quoteleft/quoteright \012«habe/space recht»/space «die»\012»Wir«/space »Tim«/space »Viel«/space »Ybbs«\012«Wir»/space «Tim»/space «Viel»/space «Ybbs»\012»OUT«/space »MIV«/space »JAW«/space »AY«\012«OUT»/space «MIV»/space «JAW»/space «AY»\012/guilsinglright OUT/guilsinglleft/space/guilsinglright MIV/guilsinglleft/space/guilsinglright JAW/guilsinglleft/space/guilsinglright AY/guilsinglleft \012/guilsinglleft OUT/guilsinglright/space/guilsinglleft MIV/guilsinglright/space/guilsinglleft JAW/guilsinglright/space/guilsinglleft AY/guilsinglright \012/quotesinglbase ja/quoteleft/space/quotesinglbase Ja/quoteleft/space/quotedblbase ja/quotedblleft/space/quotedblbase Ja/quotedblleft/space/quotesinglbase ga/quoteleft/space/space/quotedblbase ga/quotedblleft \012/quotedblbase Tag/quotedblleft/space/quotedblbase Vau/quotedblleft/space/quotedblbase Wal/quotedblleft/space/quotedblbase Yep/quotedblleft \012/quotesinglbase Tag/quoteleft/space/quotesinglbase Vau/quoteleft/space/quotesinglbase Wal/quoteleft/space/quotesinglbase Yep/quoteleft \012/quotedblleft Bus/quotedblright/space/quotedblleft Van/quotedblright/space/quotedblleft Jon/quotedblright/space/quotedblleft lone/quotedblright/space/quotedblleft Al/quotedblright \012/quoteleft Bus/quotedblleft/space/quoteleft Van/quotedblleft/space/quoteleft Jon/quotedblleft/space/quoteleft lone/quotedblleft/space/quoteleft Al/quotedblleft \012»/endash/space bei/space/endash «/space »/emdash/space und/space/emdash «/guilsinglright/endash/space bei/space/endash/guilsinglleft/space/guilsinglright/emdash/space und/space/emdash/guilsinglleft \012«/endash/space bei/space/endash »/space «/emdash/space und/space/emdash »/guilsinglleft/endash/space bei/space/endash/guilsinglright/space/guilsinglleft/emdash/space und/space/emdash/guilsinglright \012punctuation/space mark\012sic/space (!)/space ...,/space nun/space (?)/space .../space da\012hinauf/space ...;/space dahin/space ...:\012hinauf/space ...!/space hin/space ...?!/space Toll/quotedblleft ,/space leg/quotedblleft .\012nun/space (...)/space und/space ([...]/space sein\012»sie«./space »das«,/space »an«;/space »ich«:\012«sie»./space «das»,/space «an»;/space «ich»:\012»sie.«/space »das,«/space »an!«/space »ich?«\012«sie.»/space «das,»/space «an!»/space «ich?»\012/guilsinglright sie/guilsinglleft ./space/guilsinglright da/guilsinglleft ,/space/guilsinglright an/guilsinglleft ;/space/guilsinglright ich/guilsinglleft :/space \012/guilsinglleft sie/guilsinglright ./space/guilsinglleft das/guilsinglright ,/space/guilsinglleft an/guilsinglright ;/space/guilsinglleft ich/guilsinglright :\012/guilsinglright sie./guilsinglleft/space/guilsinglright das,/guilsinglleft/space/guilsinglright an!/guilsinglleft/space/guilsinglright ich?/guilsinglleft \012/guilsinglleft sie./guilsinglright/space/guilsinglleft das,/guilsinglright/space/guilsinglleft an!/guilsinglright/space/guilsinglleft ich?/guilsinglright \012Mir!,/space das?,/space Ich!:/space Sie?:\012Mir!;/space das?;/space (»sie«)/space (/guilsinglright sie/guilsinglleft )\012nun/space/endash ,/space hier/space/endash .60/space nun/space/endash :/space hier/space/endash ;\012Eil-Tat-Van-Wal-Alk-\012auf/space 48/endash 67/space und/space 25/emdash 37/space von\012if/endash then/space well/emdash sure\012USA//Kanada/space SWF//Abend\012Gauß//Ohm/space 41//56/space den//die\012auf//fall/space den//im/space den//ärger\012da//leider/space auf//aber/space I//I\012etwa/space 50%/space haben/space 37°/space im\012£50/space und/space ¥20/space sind/space $30/space und/space/euro 60\012den/space §235/space sowie/space #35/space \0124mal/space Seite/space 3f/space und/space 12/f_f .\012Der/space §45a/space in/space den/space 20ern\012figures\01200102030405060708090\01210112131415161718191\01220212232425262728292\01230313233435363738393\01240414243445464748494\01250515253545565758595\01260616263646566768696\01270717273747576778797\01280818283848586878898\01290919293949596979899\012.0.0.1.1.2.2.3.3.4.4.5.5.6.6.7.7.8.8.9.9.\012,0,0,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,\012:0:0:1:1:2:2:3:3:4:4:5:5:6:6:7:7:8:8:9:9:\012;0;0;1;1;2;2;3;3;4;4;5;5;6;6;7;7;8;8;9;9;\012von/space 18:30/space bis/space 20:15/space Uhr\012um/space 1995/space die/space 28184/space und\012und/space 8.8/space und/space 8,8/space da/space 8./endash 8.\012da/space 27./space es/space 38./space an/space 87,/space in/space 68,/space 674\012(96)/space (3)/space (5)/space (7)/space [96]/space [3/space [5/space [7\0122+3-4÷5-6±/greaterequal/lessequal ><\012(c)/space Friedrich/space Forssman",
-"/od_top_hook T/Thook/Thook/Thook UU/Uhorn/Upsilonafrican/od_top_hook/Vhook/Vhook/Whook Y/Yhook Y/Yhook aaâ/acircumflexacute/acircumflexacute/bhook/bhook/bmiddletilde/dmiddletilde/dtail/dtail/eturned/eturned/eturned/eturned/ghook/ghook/hbar/hbar/ij/ij/ij/ij jj/jdotlessstrokehook/jdotlessstrokehook/lj/lj/lslash/lslash/lslash/lslash/ocircumflexacute/ocircumflexacute/qhook/qhook/qhook/qhook/qhooktail/qhooktail/qhooktail/qhooktail/sacutedotaccent/shook/shook/whook/whook/whook/whook/clickretroflex/clickretroflex/Izhitsa-cy/Izhitsa-cy/Ghemiddlehook-cy/Schwa-cy/Schwa-cy/Schwa-cy/Schwa-cy/Schwadieresis-cy/Schwadieresis-cy/Hahook-cy/Hahook-cy/ze-cy/ze-cy/ze-cy/ze-cy/je-cy/tshe-cy/tshe-cy/dje-cy/dje-cy/izhitsa-cy/izhitsa-cy/ghemiddlehook-cy/zedescender-cy/zedescender-cy/schwa-cy/schwa-cy/schwadieresis-cy/schwadieresis-cy/schwadieresis-cy/schwadieresis-cy/zedieresis-cy/zedieresis-cy/reversedze-cy/reversedze-cy/reversedze-cy/reversedze-cy/ze-cy.loclBGR/ze-cy.loclBGR/Omicrontonos/Omicrontonos/Alphapsilivaria/Alphapsiliprosgegrammeni/Alphapsiliprosgegrammeni/Alphadasiaprosgegrammeni/Alphadasiaprosgegrammeni/Alphapsilivariaprosgegrammeni/Alphapsilivariaprosgegrammeni/Alphapsilivariaprosgegrammeni/Alphadasiavariaprosgegrammeni/Alphadasiavariaprosgegrammeni/Alphapsilioxiaprosgegrammeni/Alphapsilioxiaprosgegrammeni/Alphadasiaoxiaprosgegrammeni/Alphadasiaoxiaprosgegrammeni/Alphapsiliperispomeniprosgegrammeni/Alphapsiliperispomeniprosgegrammeni/Epsilonpsili/Epsilonpsilivaria/Epsilonpsilivaria/Etapsilivaria/Etapsilivariaprosgegrammeni/Etapsilivariaprosgegrammeni/Iotapsili/Omicronpsilivaria/Omicronpsilivaria/Rhodasia/Rhodasia/Rhodasia/Rhodasia/Omegapsilivaria/Omegapsilivaria/Omegapsiliprosgegrammeni/Omegapsiliprosgegrammeni/Omegadasiaprosgegrammeni/Omegadasiaprosgegrammeni/Omegapsilivariaprosgegrammeni/Omegapsilivariaprosgegrammeni/Omegapsilivariaprosgegrammeni/Omegadasiavariaprosgegrammeni/Omegadasiavariaprosgegrammeni/Omegapsilioxiaprosgegrammeni/Omegapsilioxiaprosgegrammeni/Omegadasiaoxiaprosgegrammeni/Omegadasiaoxiaprosgegrammeni/Omegapsiliperispomeniprosgegrammeni/Omegapsiliperispomeniprosgegrammeni/Omegadasiaperispomeniprosgegrammeni/Omegadasiaperispomeniprosgegrammeni/omicrontonos/omicrontonos/alphaoxiaypogegrammeni/alphaoxiaypogegrammeni/alphaoxiaypogegrammeni/alphaoxiaypogegrammeni/alphapsiliypogegrammeni/alphapsiliypogegrammeni/etaoxiaypogegrammeni/etaoxiaypogegrammeni/etapsiliperispomeniypogegrammeni/etapsiliperispomeniypogegrammeni/raiseduparrowmod/raiseduparrowmod/zero.tf/one.tf/one.tf/two.tf/three.tf/four.tf/four.tf/five.tf/six.tf/seven.tf/eight.tf/eight.tf/nine.tf/twoinferior/twoinferior/twoinferior/twoinferior/threeinferior/threeinferior/threeinferior/threeinferior/fourinferior/fourinferior/fourinferior/fourinferior/fiveinferior/fiveinferior/fiveinferior/fiveinferior/sixinferior/sixinferior/sixinferior/sixinferior/seveninferior/seveninferior/seveninferior/seveninferior/eightinferior/eightinferior/eightinferior/eightinferior/nineinferior/nineinferior/nineinferior/nineinferior/zero.dnom/zero.dnom/zero.dnom/zero.dnom/one.dnom/one.dnom/one.dnom/one.dnom/two.dnom/two.dnom/two.dnom/two.dnom/three.dnom/three.dnom/three.dnom/three.dnom/four.dnom/four.dnom/four.dnom/four.dnom/five.dnom/five.dnom/five.dnom/five.dnom/six.dnom/six.dnom/six.dnom/six.dnom/seven.dnom/seven.dnom/seven.dnom/seven.dnom/eight.dnom/eight.dnom/eight.dnom/eight.dnom/nine.dnom/nine.dnom/nine.dnom/nine.dnom/zero.numr/zero.numr/zero.numr/zero.numr/one.numr/one.numr/one.numr/one.numr/two.numr/two.numr/three.numr/three.numr/three.numr/three.numr/four.numr/four.numr/four.numr/four.numr/five.numr/five.numr/five.numr/five.numr/six.numr/six.numr/six.numr/six.numr/seven.numr/seven.numr/seven.numr/seven.numr/eight.numr/eight.numr/eight.numr/eight.numr/nine.numr/nine.numr/nine.numr/nine.numr/zerosuperior/zerosuperior/zerosuperior/zerosuperior ¹¹¹¹²²²²³³³³/foursuperior/foursuperior/foursuperior/foursuperior/fivesuperior/fivesuperior/fivesuperior/fivesuperior/sixsuperior/sixsuperior/sixsuperior/sixsuperior/sevensuperior/sevensuperior/sevensuperior/sevensuperior/eightsuperior/eightsuperior/eightsuperior/eightsuperior/ninesuperior/ninesuperior/ninesuperior/ninesuperior/undertie/undertie/parenleftinferior/cedi/cedi/cedi/florin/florin/approxequal/approxequal/approxequal/approxequal ~~~^^^/emptyset/emptyset/fahrenheit/lowringmod/lowringmod/lowringmod/peso_lines/apostrophemod/apostrophemod/apostrophemod/dieresiscomb/dieresiscomb/dieresiscomb/dieresiscomb/dotaccentcomb/dotaccentcomb/gravecomb/acutecomb/circumflexcomb/circumflexcomb/brevecomb/ringbelowcomb/ringbelowcomb/ogonekcomb/ogonekcomb/tildebelowcomb/tildebelowcomb/tildebelowcomb/macronbelowcomb/macronbelowcomb/macronbelowcomb/tildeoverlaycomb/tildeoverlaycomb/tildeoverlaycomb/nottildeabovecomb/nottildeabovecomb/homotheticabovecomb/almostequaltoabovecomb/almostequaltoabovecomb/almostequaltoabovecomb/almostequaltoabovecomb/arrowleftrightbelowcomb/arrowleftrightbelowcomb/hungarumlaut/hungarumlaut/hungarumlaut/hungarumlaut/circumflex/circumflex/koroniscomb/koroniscomb/koroniscomb/tonos.case/tonos.case/koronis.case/dasia/dasia/dasia/psilivaria/psilivaria/psilivaria/dasiavaria/dasiavaria/dasiavaria/dasiavaria/dasiavaria.case/dasiavaria.case/dasiavaria.case/psilioxia/psilioxia/psilioxia/psilioxia.case/dasiaoxia/dasiaoxia/dasiaoxia/dasiaoxia/dasiaoxia.case/dasiaoxia.case/dasiaoxia.case/dasiaoxia.case/psiliperispomeni/psiliperispomeni/psiliperispomeni.case/psiliperispomeni.case/psiliperispomeni.case/dasiaperispomeni/dasiaperispomeni.case/dasiaperispomeni.case/varia.case/varia.case/oxia.case/oxia.case/perispomeni/perispomeni/perispomeni.case/perispomeni.case/psilivaria.case/psilivaria.case/colonsignbars/colonsignbars/colonsignbars/colonsignbars/od_k_hook/od_k_hook/od_k_hook/od_k_hook"
-);
 classes = (
 {
 automatic = 1;
@@ -1646,7 +1642,7 @@ layers = (
 components = (
 {
 name = A;
-transform = "{1, 0, 0.23429, 0.979, 0, 0}";
+transform = "{1, 0, 0.22937, 0.979, 0, 0}";
 },
 {
 alignment = -1;
@@ -1661,7 +1657,7 @@ width = 1451;
 components = (
 {
 name = A;
-transform = "{1, 0, 0.23429, 0.979, 0, 0}";
+transform = "{1, 0, 0.22937, 0.979, 0, 0}";
 },
 {
 alignment = -1;
@@ -6056,7 +6052,7 @@ name = L;
 alignment = 1;
 locked = 1;
 name = slash;
-transform = "{0.4187, -0.57251, 6.2791, 2.5286, 118, -384}";
+transform = "{0.4187, -0.57251, 166.67787, 11.11434, 118, -3097}";
 }
 );
 layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
@@ -7990,7 +7986,7 @@ name = O;
 {
 alignment = 1;
 name = slash;
-transform = "{1.25607, -0.34328, 0.35586, 1.23193, 73, 127}";
+transform = "{1.25119, -0.34328, 0.35559, 1.23681, 75, 126}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -8004,7 +8000,7 @@ name = O;
 {
 alignment = 1;
 name = slash;
-transform = "{1.25607, -0.34328, 0.35586, 1.23193, 22, 155}";
+transform = "{1.25119, -0.34328, 0.35559, 1.23681, 24, 154}";
 }
 );
 layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
@@ -9883,7 +9879,7 @@ name = T;
 },
 {
 name = od_top_hook;
-transform = "{1.1043, -0.30062, -0.15944, 0.6673, 118, 548}";
+transform = "{1.1043, -0.30062, -0.09008, 0.6239, 118, 563}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -9896,7 +9892,7 @@ name = T;
 },
 {
 name = od_top_hook;
-transform = "{0.9552, -0.35272, -0.05224, 0.5907, 62, 588}";
+transform = "{0.9552, -0.35272, -0.03125, 0.57141, 62, 593}";
 }
 );
 layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
@@ -11203,7 +11199,7 @@ name = U;
 },
 {
 name = od_top_hook;
-transform = "{-1.6693, 0, 0.08773, 1, 952, 467}";
+transform = "{-1.6693, 0, 0.05255, 1, 952, 467}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -11216,7 +11212,7 @@ name = U;
 },
 {
 name = od_top_hook;
-transform = "{-1.4156, 0, 0.0697, 1, 937, 482}";
+transform = "{-1.4156, 0, -0.04924, 1, 937, 482}";
 }
 );
 layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
@@ -11530,7 +11526,7 @@ transform = "{1, 0, 0, 1, -70, 0}";
 },
 {
 name = od_top_hook;
-transform = "{0.0118, -1.06366, -354564297862.01245, -618831.4408, 1528, 900}";
+transform = "{0.0118, -1.06366, -957826075518563333796003840, -31960666810688.07031, 1528, 900}";
 },
 {
 name = od_top_hook_W;
@@ -14801,7 +14797,7 @@ name = b;
 },
 {
 name = od_top_hook;
-transform = "{1.4831, 0.09078, -0.10106, 0.9687, 65, 478}";
+transform = "{1.48055, 0.09078, -0.0867, 0.97125, 65, 478}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -14814,7 +14810,7 @@ name = b;
 },
 {
 name = od_top_hook;
-transform = "{1.0591, -0.04643, -0.08485, 0.9635, 86, 466}";
+transform = "{1.0591, -0.04643, -0.07689, 0.95978, 86, 467}";
 }
 );
 layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
@@ -20523,7 +20519,7 @@ transform = "{0.9734, 0, 0, 1, 0, 0}";
 },
 {
 name = rfishhook;
-transform = "{1.14682, -0.03006, 0.03546, 0.90999, 280, 277}";
+transform = "{1.14652, -0.03006, 0.03307, 0.91029, 280, 277}";
 },
 {
 name = hyphen;
@@ -20543,7 +20539,7 @@ transform = "{0.9734, 0, 0, 1, 0, 0}";
 {
 locked = 1;
 name = rfishhook;
-transform = "{0.9899, -0.03006, 0.03514, 0.90968, 261, 321}";
+transform = "{0.98967, -0.03006, 0.03453, 0.90991, 261, 321}";
 },
 {
 locked = 1;
@@ -24949,7 +24945,7 @@ name = q;
 {
 locked = 1;
 name = rfishhook;
-transform = "{1.20668, -0.10453, 0.11434, 1.00097, 461, 162}";
+transform = "{1.2043, -0.10453, 0.10972, 1.00335, 461, 162}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -24963,7 +24959,7 @@ name = q;
 {
 locked = 1;
 name = rfishhook;
-transform = "{1.03917, -0.10453, 0.10863, 0.99638, 497, 164}";
+transform = "{1.03833, -0.10453, 0.10829, 0.99722, 497, 164}";
 }
 );
 layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
@@ -24974,7 +24970,7 @@ unicode = 02A0;
 },
 {
 glyphname = qhooktail;
-lastChange = "2024-06-22 01:30:43 +0000";
+lastChange = "2024-09-08 14:26:52 +0000";
 layers = (
 {
 components = (
@@ -24983,7 +24979,7 @@ name = q;
 },
 {
 name = od_bottom_wide_hook;
-transform = "{0.0705, 0.62324, -923907.3171, 762.7233, 623, 21}";
+transform = "{0.0705, 0.62324, -107046988107026.45312, 8168365.50783, 623, 21}";
 }
 );
 hints = (
@@ -25004,7 +25000,7 @@ name = q;
 },
 {
 name = od_bottom_wide_hook;
-transform = "{0.1822, 0.79622, -7124.54295, 77.1726, 628, -20192}";
+transform = "{0.1822, 0.79622, -1220465486.06533, 31211.65991, 628, 21}";
 }
 );
 layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
@@ -33938,7 +33934,7 @@ name = "Softsign-cy";
 },
 {
 name = hyphen;
-transform = "{0.6191, 0, 0.51871, 1, -225, 376}";
+transform = "{0.6191, 0, 0.83785, 1, -225, 376}";
 }
 );
 layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
@@ -35111,7 +35107,7 @@ name = V;
 },
 {
 name = od_top_hook;
-transform = "{0.9659, -0.59597, 0.34646, 1.2064, 789, 372}";
+transform = "{0.9659, -0.59597, 0.5094, 1.42017, 789, 314}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -37631,7 +37627,7 @@ name = X;
 },
 {
 name = od_bottom_wide_hook;
-transform = "{-0.8784, -0.40076, -1.37947, 1.5308, 1490, -421}";
+transform = "{-0.8784, -0.40076, -3.3924, 2.16017, 1490, -618}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -37644,7 +37640,7 @@ name = X;
 },
 {
 name = od_bottom_wide_hook;
-transform = "{-0.996, -0.51767, -0.88414, 1.4538, 1266, -378}";
+transform = "{-0.996, -0.51767, -1.69845, 1.91333, 1266, -496.1}";
 }
 );
 layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
@@ -44365,7 +44361,7 @@ unicode = 03A8;
 },
 {
 glyphname = Omega;
-lastChange = "2019-09-17 00:19:56 +0000";
+lastChange = "2024-09-08 14:25:03 +0000";
 layers = (
 {
 anchors = (
@@ -45843,7 +45839,7 @@ name = Alpha;
 },
 {
 name = dasiavaria.case;
-transform = "{1, 0, 0, 1, -11, 123}";
+transform = "{1, 0, 0, 1, -219, 187}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -46291,7 +46287,7 @@ name = Alphaprosgegrammeni;
 {
 alignment = 1;
 name = dasiavaria.case;
-transform = "{1, 0, 0, 1, -314, 151}";
+transform = "{1, 0, 0, 1, -522, 215}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -46359,7 +46355,7 @@ name = Alphaprosgegrammeni;
 {
 alignment = 1;
 name = dasiaoxia.case;
-transform = "{1, 0, 0, 1, -49, 12}";
+transform = "{1, 0, 0, 1, -173, 79}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -46562,7 +46558,7 @@ name = Epsilon;
 },
 {
 name = dasiavaria.case;
-transform = "{1, 0, 0, 1, -288, 121}";
+transform = "{1, 0, 0, 1, -496, 185}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -46628,7 +46624,7 @@ name = Epsilon;
 },
 {
 name = dasiaoxia.case;
-transform = "{1, 0, 0, 1, -224, 66}";
+transform = "{1, 0, 0, 1, -348, 133}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -46833,7 +46829,7 @@ transform = "{1, 0, 0, 1, 489, 0}";
 },
 {
 name = dasiavaria.case;
-transform = "{1, 0, 0, 1, 150, 180}";
+transform = "{1, 0, 0, 1, -58, 244}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -46907,7 +46903,7 @@ transform = "{1, 0, 0, 1, 480, 0}";
 },
 {
 name = dasiaoxia.case;
-transform = "{1, 0, 0, 1, 185, 174}";
+transform = "{1, 0, 0, 1, 61, 241}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -47250,7 +47246,7 @@ name = Eta;
 },
 {
 name = dasiavaria.case;
-transform = "{1, 0, 0, 1, -339, 180}";
+transform = "{1, 0, 0, 1, -547, 244}";
 },
 {
 anchor = gram;
@@ -47334,7 +47330,7 @@ name = Eta;
 },
 {
 name = dasiaoxia.case;
-transform = "{1, 0, 0, 1, -295, 174}";
+transform = "{1, 0, 0, 1, -419, 241}";
 },
 {
 name = prosgegrammeni.alt;
@@ -47574,7 +47570,7 @@ name = Iota;
 },
 {
 name = dasiavaria.case;
-transform = "{1, 0, 0, 1, -398, 286}";
+transform = "{1, 0, 0, 1, -606, 350}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -47978,7 +47974,7 @@ name = Omicron;
 {
 anchor = polycase;
 name = dasiavaria.case;
-transform = "{1, 0, 0, 1, -287, 123}";
+transform = "{1, 0, 0, 1, -495, 187}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -48046,7 +48042,7 @@ name = Omicron;
 {
 anchor = polycase;
 name = dasiaoxia.case;
-transform = "{1, 0, 0, 1, -178, 105}";
+transform = "{1, 0, 0, 1, -302, 172}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -48216,7 +48212,7 @@ name = Upsilon;
 {
 anchor = polycase;
 name = dasiavaria.case;
-transform = "{1, 0, 0, 1, -287, 121}";
+transform = "{1, 0, 0, 1, -495, 185}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -48250,7 +48246,7 @@ name = Upsilon;
 {
 anchor = polycase;
 name = dasiaoxia.case;
-transform = "{1, 0, 0, 1, -296, 132}";
+transform = "{1, 0, 0, 1, -420, 199}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -48553,7 +48549,7 @@ name = Omega;
 {
 anchor = polycase;
 name = dasiavaria.case;
-transform = "{1, 0, 0, 1, -279, 18}";
+transform = "{1, 0, 0, 1, -487, 82}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -48621,7 +48617,7 @@ name = Omega;
 {
 anchor = polycase;
 name = dasiaoxia.case;
-transform = "{1, 0, 0, 1, -83, -23}";
+transform = "{1, 0, 0, 1, -207, 44}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -48915,7 +48911,7 @@ unicode = 1FAA;
 },
 {
 glyphname = Omegadasiavariaprosgegrammeni;
-lastChange = "2024-06-20 20:56:05 +0000";
+lastChange = "2024-09-08 14:26:32 +0000";
 layers = (
 {
 components = (
@@ -48925,7 +48921,7 @@ name = Omegaprosgegrammeni;
 {
 anchor = polycase;
 name = dasiavaria.case;
-transform = "{1, 0, 0, 1, -279, 18}";
+transform = "{1, 0, 0, 1, -487, 82}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -48983,7 +48979,7 @@ unicode = 1FAC;
 },
 {
 glyphname = Omegadasiaoxiaprosgegrammeni;
-lastChange = "2024-06-20 20:56:05 +0000";
+lastChange = "2024-09-08 14:27:47 +0000";
 layers = (
 {
 components = (
@@ -48993,7 +48989,7 @@ name = Omegaprosgegrammeni;
 {
 anchor = polycase;
 name = dasiaoxia.case;
-transform = "{1, 0, 0, 1, -83, -23}";
+transform = "{1, 0, 0, 1, -207, 44}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -52685,7 +52681,7 @@ name = alpha;
 },
 {
 name = psilioxia;
-transform = "{1, 0, 0, 1, 243, -97}";
+transform = "{1, 0, 0, 1, 354, 44}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -52718,7 +52714,7 @@ name = alpha;
 },
 {
 name = dasiaoxia;
-transform = "{1, 0, 0, 1, 245, 32}";
+transform = "{1, 0, 0, 1, 122, 29}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -53238,7 +53234,7 @@ name = alpha;
 },
 {
 name = psilioxia;
-transform = "{1, 0, 0, 1, 243, -97}";
+transform = "{1, 0, 0, 1, 354, 44}";
 },
 {
 name = ypogegrammeni;
@@ -53279,7 +53275,7 @@ transform = "{1, 0, 0, 1, 187, -823}";
 },
 {
 name = dasiaoxia;
-transform = "{1, 0, 0, 1, 245, 32}";
+transform = "{1, 0, 0, 1, 122, 29}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -53556,7 +53552,7 @@ name = epsilon;
 },
 {
 name = psilioxia;
-transform = "{1, 0, 0, 1, 95, -164}";
+transform = "{1, 0, 0, 1, 206, -23}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -53589,7 +53585,7 @@ name = epsilon;
 },
 {
 name = dasiaoxia;
-transform = "{1, 0, 0, 1, 97, -35}";
+transform = "{1, 0, 0, 1, -26, -38}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -53820,7 +53816,7 @@ name = eta;
 },
 {
 name = psilioxia;
-transform = "{1, 0, 0, 1, 237, -69}";
+transform = "{1, 0, 0, 1, 348, 72}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -53853,7 +53849,7 @@ name = eta;
 },
 {
 name = dasiaoxia;
-transform = "{1, 0, 0, 1, 239, 60}";
+transform = "{1, 0, 0, 1, 116, 57}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -54275,7 +54271,7 @@ unicode = 1F93;
 },
 {
 glyphname = etapsilioxiaypogegrammeni;
-lastChange = "2019-10-12 04:22:23 +0000";
+lastChange = "2024-09-08 14:23:52 +0000";
 layers = (
 {
 components = (
@@ -54284,7 +54280,7 @@ name = etaypogegrammeni;
 },
 {
 name = psilioxia;
-transform = "{1, 0, 0, 1, 237, -69}";
+transform = "{1, 0, 0, 1, 348, 72}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -54308,7 +54304,7 @@ unicode = 1F94;
 },
 {
 glyphname = etadasiaoxiaypogegrammeni;
-lastChange = "2019-10-12 04:23:30 +0000";
+lastChange = "2024-09-08 14:24:10 +0000";
 layers = (
 {
 components = (
@@ -54317,7 +54313,7 @@ name = etaypogegrammeni;
 },
 {
 name = dasiaoxia;
-transform = "{1, 0, 0, 1, 239, 60}";
+transform = "{1, 0, 0, 1, 116, 57}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -54581,7 +54577,7 @@ name = iota;
 },
 {
 name = psilioxia;
-transform = "{1, 0, 0, 1, 78, 19}";
+transform = "{1, 0, 0, 1, 189, 160}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -54615,7 +54611,7 @@ name = iota;
 },
 {
 name = dasiaoxia;
-transform = "{1, 0, 0, 1, 80, 148}";
+transform = "{1, 0, 0, 1, -43, 145}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -55112,7 +55108,7 @@ name = omicron;
 },
 {
 name = psilioxia;
-transform = "{1, 0, 0, 1, 260, 17}";
+transform = "{1, 0, 0, 1, 371, 158}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -55145,7 +55141,7 @@ name = omicron;
 },
 {
 name = dasiaoxia;
-transform = "{1, 0, 0, 1, 262, 146}";
+transform = "{1, 0, 0, 1, 139, 143}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -55443,7 +55439,7 @@ name = upsilon;
 },
 {
 name = psilioxia;
-transform = "{1, 0, 0, 1, 110, -71}";
+transform = "{1, 0, 0, 1, 221, 70}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -55476,7 +55472,7 @@ name = upsilon;
 },
 {
 name = dasiaoxia;
-transform = "{1, 0, 0, 1, 112, 58}";
+transform = "{1, 0, 0, 1, -11, 55}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -55971,7 +55967,7 @@ name = omega;
 },
 {
 name = psilioxia;
-transform = "{1, 0, 0, 1, 268, -37}";
+transform = "{1, 0, 0, 1, 379, 104}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -56004,7 +56000,7 @@ name = omega;
 },
 {
 name = dasiaoxia;
-transform = "{1, 0, 0, 1, 270, 92}";
+transform = "{1, 0, 0, 1, 147, 89}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -56437,7 +56433,7 @@ name = omegaypogegrammeni;
 },
 {
 name = psilioxia;
-transform = "{1, 0, 0, 1, 268, -37}";
+transform = "{1, 0, 0, 1, 379, 104}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -56470,7 +56466,7 @@ name = omegaypogegrammeni;
 },
 {
 name = dasiaoxia;
-transform = "{1, 0, 0, 1, 270, 92}";
+transform = "{1, 0, 0, 1, 147, 89}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -61971,7 +61967,7 @@ transform = "{0.4978, 0, 0, 0.4978, 0, -150}";
 }
 );
 layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
-width = 338;
+width = 339;
 }
 );
 unicode = 2088;
@@ -66242,7 +66238,7 @@ layers = (
 components = (
 {
 name = numbersign;
-transform = "{-0.0293, -1.09783, 1441090472.03056, -40242.8377, 141, 804}";
+transform = "{-0.0293, -1.09783, 2655726018094963884032, -53995683686.8417, 141, 804}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -66252,7 +66248,7 @@ width = 954;
 components = (
 {
 name = numbersign;
-transform = "{-0.0293, -1.09783, 1441090472.03056, -40242.8377, 205, 804}";
+transform = "{-0.0293, -1.09783, 2655726018094963884032, -53995683686.8417, 205, 804}";
 }
 );
 layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
@@ -66616,7 +66612,7 @@ components = (
 {
 alignment = -1;
 name = v;
-transform = "{0.5365, 0, 0.02228, 0.5683, 26, -67}";
+transform = "{0.5365, 0, 0.0236, 0.5683, 26, -67}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -66627,7 +66623,7 @@ components = (
 {
 alignment = -1;
 name = v;
-transform = "{0.5365, 0, 0.02228, 0.5683, 27, -67}";
+transform = "{0.5365, 0, 0.0236, 0.5683, 27, -67}";
 }
 );
 layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
@@ -71671,7 +71667,7 @@ name = c;
 },
 {
 name = bar;
-transform = "{0.99318, 0.07107, -0.0775, 0.83886, 282, 77}";
+transform = "{0.99194, 0.07107, -0.07482, 0.8401, 282, 77}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -71686,7 +71682,7 @@ name = c;
 {
 alignment = 1;
 name = bar;
-transform = "{0.99318, 0.07107, -0.0775, 0.83886, 246, 61}";
+transform = "{0.99194, 0.07107, -0.07482, 0.8401, 247, 60}";
 }
 );
 layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
@@ -77788,7 +77784,7 @@ width = 315;
 },
 {
 glyphname = koronis;
-lastChange = "2024-06-22 02:06:11 +0000";
+lastChange = "2024-09-08 14:25:52 +0000";
 layers = (
 {
 anchors = (
@@ -78149,13 +78145,13 @@ unicode = 1FDD;
 },
 {
 glyphname = dasiavaria.case;
-lastChange = "2024-06-22 02:08:21 +0000";
+lastChange = "2024-09-08 14:26:32 +0000";
 layers = (
 {
 anchors = (
 {
 name = _topleft;
-position = "{415, 670}";
+position = "{623, 606}";
 }
 );
 components = (
@@ -78185,13 +78181,13 @@ width = 1262;
 },
 {
 glyphname = psilioxia;
-lastChange = "2019-10-04 00:42:46 +0000";
+lastChange = "2024-09-08 14:23:52 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
-position = "{154, 686}";
+position = "{43, 545}";
 },
 {
 name = _topleft;
@@ -78294,7 +78290,7 @@ width = 600;
 },
 {
 glyphname = dasiaoxia;
-lastChange = "2019-10-04 00:20:18 +0000";
+lastChange = "2024-09-08 14:26:06 +0000";
 layers = (
 {
 anchors = (
@@ -78304,7 +78300,7 @@ position = "{230, 713}";
 },
 {
 name = _top;
-position = "{152, 557}";
+position = "{275, 560}";
 },
 {
 name = _topleft;
@@ -78321,8 +78317,9 @@ name = koronis;
 transform = "{-1, 0, 0, 1, 267, 0}";
 },
 {
+alignment = -1;
 name = oxia;
-transform = "{1, 0, 0, 1, 267, 0}";
+transform = "{1, 0, 0, 1, 219, 66}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -78361,13 +78358,13 @@ unicode = 1FDE;
 },
 {
 glyphname = dasiaoxia.case;
-lastChange = "2019-10-04 00:19:08 +0000";
+lastChange = "2024-09-08 14:27:47 +0000";
 layers = (
 {
 anchors = (
 {
 name = _polycase;
-position = "{215, 711}";
+position = "{339, 644}";
 },
 {
 name = _topleft;
@@ -78380,8 +78377,9 @@ name = koronis;
 transform = "{-1, 0, 0, 1, 267, 0}";
 },
 {
+alignment = -1;
 name = oxia;
-transform = "{1, 0, 0, 1, 267, 0}";
+transform = "{1, 0, 0, 1, 180, 64}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -79005,7 +79003,7 @@ width = 445;
 },
 {
 glyphname = oxia;
-lastChange = "2019-10-04 00:42:46 +0000";
+lastChange = "2024-09-08 14:25:40 +0000";
 layers = (
 {
 anchors = (
@@ -84686,12 +84684,12 @@ components = (
 {
 alignment = 1;
 name = bar;
-transform = "{1, 0, 0.46127, 1.433, 0, 0}";
+transform = "{1, 0, 0.661, 1.433, 0, 0}";
 },
 {
 alignment = 1;
 name = bar;
-transform = "{1, 0, 0.46127, 1.433, 256, 0}";
+transform = "{1, 0, 0.661, 1.433, 256, 0}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -84708,12 +84706,12 @@ components = (
 {
 alignment = 1;
 name = bar;
-transform = "{1, 0, 0.46127, 1.433, 0, 0}";
+transform = "{1, 0, 0.661, 1.433, 0, 0}";
 },
 {
 alignment = 1;
 name = bar;
-transform = "{1, 0, 0.46127, 1.433, 392, 0}";
+transform = "{1, 0, 0.661, 1.433, 392, 0}";
 }
 );
 layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
@@ -84829,11 +84827,11 @@ position = "{396, 431}";
 components = (
 {
 name = bar;
-transform = "{1.0011, 0.05454, -0.03869, 1.18124, 357, 85}";
+transform = "{1.00249, 0.05454, -0.03412, 1.17985, 357, 85}";
 },
 {
 name = bar;
-transform = "{1.0011, 0.05454, -0.03869, 1.18124, 200, 87}";
+transform = "{1.00249, 0.05454, -0.03412, 1.17985, 200, 87}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -84849,11 +84847,11 @@ position = "{348, 431}";
 components = (
 {
 name = bar;
-transform = "{1.0011, 0.05454, -0.03869, 1.18124, 47, 61}";
+transform = "{1.00249, 0.05454, -0.03412, 1.17985, 47, 61}";
 },
 {
 name = bar;
-transform = "{1.0011, 0.05454, -0.03869, 1.18124, 357, 61}";
+transform = "{1.00249, 0.05454, -0.03412, 1.17985, 357, 61}";
 }
 );
 layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
