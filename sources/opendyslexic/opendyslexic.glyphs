@@ -1,8 +1,5 @@
 {
 .appVersion = "3260";
-DisplayStrings = (
-"/fraction ½/onethird/twothirds ¼¾/onefifth/twofifths/threefifths/fourfifths/onesixth/fivesixths/oneeighth/threeeighths/fiveeighths/seveneighths =/notequal %/perthousand/onethird/twothirds ¼¾/onefifth/twofifths/threefifths/fourfifths/onesixth/fivesixths/oneeighth/threeeighths/fiveeighths/seveneighths"
-);
 classes = (
 {
 automatic = 1;
@@ -74525,7 +74522,7 @@ unicode = 00B5;
 },
 {
 glyphname = percent;
-lastChange = "2024-12-03 19:07:18 +0000";
+lastChange = "2024-12-03 19:15:31 +0000";
 layers = (
 {
 components = (
@@ -74535,7 +74532,7 @@ name = fraction;
 {
 alignment = -1;
 name = o;
-transform = "{0.5925, 0, 0, 0.5925, 50, 375}";
+transform = "{0.5925, 0, 0, 0.5925, 136, 330}";
 },
 {
 alignment = -1;
@@ -74554,16 +74551,16 @@ name = fraction;
 {
 alignment = -1;
 name = o;
-transform = "{0.5925, 0, 0, 0.5925, 167, 441}";
+transform = "{0.5925, 0, 0, 0.5925, 101, 329}";
 },
 {
 alignment = -1;
 name = o;
-transform = "{0.5925, 0, 0, 0.5925, 621, -23}";
+transform = "{0.5925, 0, 0, 0.5925, 586, -23}";
 }
 );
 layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
-width = 1137;
+width = 1086;
 }
 );
 unicode = 0025;
