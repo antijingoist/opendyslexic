@@ -1,8 +1,5 @@
 {
 .appVersion = "3260";
-DisplayStrings = (
-"XA/facsimile"
-);
 classes = (
 {
 automatic = 1;
@@ -64460,7 +64457,7 @@ unicode = 203F;
 },
 {
 glyphname = hyphen;
-lastChange = "2024-06-20 20:57:24 +0000";
+lastChange = "2024-12-03 19:52:20 +0000";
 layers = (
 {
 anchors = (
@@ -64539,7 +64536,7 @@ position = "{285, 233}";
 },
 {
 name = _top;
-position = "{279, 86}";
+position = "{279, 91}";
 },
 {
 name = _topleft;
@@ -73164,7 +73161,7 @@ unicode = 00A3;
 },
 {
 glyphname = tenge;
-lastChange = "2020-09-15 15:26:19 +0000";
+lastChange = "2024-12-03 19:52:40 +0000";
 layers = (
 {
 components = (
@@ -73184,16 +73181,17 @@ width = 1077;
 {
 components = (
 {
-name = hyphen;
-transform = "{1.5747, 0, 0, 0.51, -45, 547}";
-},
-{
 name = T;
 transform = "{1, 0, 0, 0.8367, 0, 0}";
+},
+{
+anchor = top;
+name = hyphen;
+transform = "{1.5747, 0, 0, 0.51, 88, 720}";
 }
 );
 layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
-width = 777;
+width = 1055;
 }
 );
 unicode = 20B8;
