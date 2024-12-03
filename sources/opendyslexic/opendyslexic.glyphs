@@ -1,5 +1,8 @@
 {
 .appVersion = "3260";
+DisplayStrings = (
+"XA/facsimile"
+);
 classes = (
 {
 automatic = 1;
@@ -308,7 +311,7 @@ glyphs = (
 {
 color = 6;
 glyphname = A;
-lastChange = "2019-11-06 16:04:02 +0000";
+lastChange = "2024-12-03 19:49:31 +0000";
 layers = (
 {
 anchors = (
@@ -71619,7 +71622,7 @@ unicode = 2103;
 },
 {
 glyphname = facsimile;
-lastChange = "2019-11-15 20:30:21 +0000";
+lastChange = "2024-12-03 19:50:34 +0000";
 layers = (
 {
 components = (
@@ -71629,7 +71632,7 @@ name = F;
 {
 alignment = -1;
 name = A;
-transform = "{1, 0, 0, 1, 523, 0}";
+transform = "{1, 0, 0, 1, 425, 0}";
 },
 {
 name = X;
@@ -71637,7 +71640,7 @@ transform = "{1, 0, 0, 1, 1261, 0}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
-width = 2050;
+width = 2396;
 },
 {
 components = (
@@ -71645,12 +71648,13 @@ components = (
 name = F;
 },
 {
+alignment = -1;
 name = A;
-transform = "{1, 0, 0, 1, 597, 0}";
+transform = "{1, 0, 0, 1, 542, 0}";
 },
 {
 name = X;
-transform = "{1, 0, 0, 1, 1531, 0}";
+transform = "{1, 0, 0, 1, 1338, 0}";
 }
 );
 layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
