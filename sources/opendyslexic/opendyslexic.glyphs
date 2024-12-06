@@ -1,5 +1,8 @@
 {
 .appVersion = "3260";
+DisplayStrings = (
+"n/ncommaaccent"
+);
 classes = (
 {
 automatic = 1;
@@ -10558,7 +10561,7 @@ unicode = 1E42;
 {
 color = 6;
 glyphname = N;
-lastChange = "2024-12-04 01:08:59 +0000";
+lastChange = "2024-12-06 21:01:56 +0000";
 layers = (
 {
 anchors = (
@@ -10573,6 +10576,10 @@ position = "{528, 0}";
 {
 name = center;
 position = "{572, 366}";
+},
+{
+name = commaaccent;
+position = "{488, 10}";
 },
 {
 name = eng;
@@ -10664,6 +10671,10 @@ position = "{519, -174}";
 {
 name = center;
 position = "{534, 386}";
+},
+{
+name = commaaccent;
+position = "{512, 1}";
 },
 {
 name = eng;
@@ -10987,7 +10998,7 @@ unicode = 1E4A;
 },
 {
 glyphname = Ncommaaccent;
-lastChange = "2024-12-04 20:43:07 +0000";
+lastChange = "2024-12-06 21:02:02 +0000";
 layers = (
 {
 components = (
@@ -10995,9 +11006,9 @@ components = (
 name = N;
 },
 {
-anchor = bottom;
+anchor = commaaccent;
 name = commaaccentcomb;
-transform = "{1, 0, 0, 1, 549, -153}";
+transform = "{1, 0, 0, 1, 333, -158}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -11025,9 +11036,9 @@ components = (
 name = N;
 },
 {
-anchor = bottom;
+anchor = commaaccent;
 name = commaaccentcomb;
-transform = "{1, 0, 0, 1, 534, -175}";
+transform = "{1, 0, 0, 1, 365, -189}";
 }
 );
 layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
@@ -30876,7 +30887,7 @@ name = g;
 {
 anchor = commaaccent;
 name = commaaccentcomb;
-transform = "{1, 0, 0, 1, 229, 841}";
+transform = "{1, 0, 0, 1, 260, 450}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -30906,7 +30917,7 @@ name = g;
 {
 anchor = commaaccent;
 name = commaaccentcomb;
-transform = "{1, 0, 0, 1, 293, 979}";
+transform = "{1, 0, 0, 1, 333, 511}";
 }
 );
 layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
@@ -36710,7 +36721,7 @@ unicode = 026F;
 {
 color = 7;
 glyphname = n;
-lastChange = "2024-12-04 01:08:59 +0000";
+lastChange = "2024-12-06 21:03:08 +0000";
 layers = (
 {
 anchors = (
@@ -36721,6 +36732,10 @@ position = "{354, -106}";
 {
 name = center;
 position = "{411, 269}";
+},
+{
+name = commaaccent;
+position = "{366, 11}";
 },
 {
 name = eng;
@@ -36809,6 +36824,10 @@ position = "{423, -189}";
 {
 name = center;
 position = "{440, 269}";
+},
+{
+name = commaaccent;
+position = "{434, 8}";
 },
 {
 name = eng;
@@ -37144,7 +37163,7 @@ unicode = 1E4B;
 },
 {
 glyphname = ncommaaccent;
-lastChange = "2024-12-04 20:43:07 +0000";
+lastChange = "2024-12-06 21:03:22 +0000";
 layers = (
 {
 components = (
@@ -37152,8 +37171,9 @@ components = (
 name = n;
 },
 {
+anchor = commaaccent;
 name = commaaccentcomb;
-transform = "{1, 0, 0, 1, 403, -143}";
+transform = "{1, 0, 0, 1, 211, -157}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -37181,8 +37201,9 @@ components = (
 name = n;
 },
 {
+anchor = commaaccent;
 name = commaaccentcomb;
-transform = "{1, 0, 0, 1, 440, -169}";
+transform = "{1, 0, 0, 1, 287, -182}";
 }
 );
 layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
@@ -59962,7 +59983,7 @@ name = M;
 {
 anchor = commaaccent;
 name = commaaccentcomb;
-transform = "{1, 0, 0, 1, 439, 1093}";
+transform = "{1, 0, 0, 1, 470, 702}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -59993,7 +60014,7 @@ name = M;
 {
 anchor = commaaccent;
 name = commaaccentcomb;
-transform = "{1, 0, 0, 1, 363, 1163}";
+transform = "{1, 0, 0, 1, 403, 695}";
 }
 );
 layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
@@ -134637,13 +134658,17 @@ unicode = 0325;
 },
 {
 glyphname = commaaccentcomb;
-lastChange = "2024-12-04 20:42:01 +0000";
+lastChange = "2024-12-06 21:01:30 +0000";
 layers = (
 {
 anchors = (
 {
 name = _commaaccent;
-position = "{186, -223}";
+position = "{155, 168}";
+},
+{
+name = _commaaccent;
+position = "{155, 168}";
 },
 {
 name = _eng;
@@ -134678,7 +134703,11 @@ width = 321;
 anchors = (
 {
 name = _commaaccent;
-position = "{187, -278}";
+position = "{147, 190}";
+},
+{
+name = _commaaccent;
+position = "{147, 190}";
 },
 {
 name = _eng;
