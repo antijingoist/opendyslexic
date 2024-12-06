@@ -1,8 +1,5 @@
 {
 .appVersion = "3260";
-DisplayStrings = (
-"n/ncommaaccent"
-);
 classes = (
 {
 automatic = 1;
@@ -37646,17 +37643,20 @@ unicode = 0273;
 },
 {
 glyphname = nj;
-lastChange = "2024-12-04 01:08:59 +0000";
+lastChange = "2024-12-06 21:04:42 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = n;
+transform = "{1, 0, 0, 1, -33, 0}";
 },
 {
+alignment = -1;
 anchor = right;
 name = j;
-transform = "{1, 0, 0, 1, 868, -173}";
+transform = "{1, 0, 0, 1, 373, -132}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -37676,18 +37676,20 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 815;
+width = 1013;
 },
 {
 components = (
 {
 alignment = -1;
 name = n;
+transform = "{1, 0, 0, 1, -33, 0}";
 },
 {
+alignment = -1;
 anchor = right;
 name = j;
-transform = "{1, 0, 0, 1, 867, -205}";
+transform = "{1, 0, 0, 1, 538, -205}";
 }
 );
 layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
@@ -37707,7 +37709,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 1223;
+width = 1143;
 }
 );
 unicode = 01CC;
