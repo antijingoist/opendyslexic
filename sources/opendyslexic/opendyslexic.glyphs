@@ -1,5 +1,8 @@
 {
 .appVersion = "3260";
+DisplayStrings = (
+"/ratio"
+);
 classes = (
 {
 automatic = 1;
@@ -106888,6 +106891,53 @@ width = 600;
 unicode = 200F;
 },
 {
+glyphname = "space-han";
+lastChange = "2024-12-04 01:09:00 +0000";
+layers = (
+{
+layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1320;
+},
+{
+layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1160;
+}
+);
+unicode = 3000;
+},
+{
 glyphname = .notdef;
 lastChange = "2024-12-04 01:09:00 +0000";
 layers = (
@@ -107066,53 +107116,6 @@ com.hugojourdan.ColorFlow = {
 width = 1352;
 }
 );
-},
-{
-glyphname = "space-han";
-lastChange = "2024-12-04 01:09:00 +0000";
-layers = (
-{
-layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
-userData = {
-com.hugojourdan.ColorFlow = {
-"0" = 0;
-"1" = 0;
-"10" = 0;
-"11" = 0;
-"2" = 0;
-"3" = 0;
-"4" = 0;
-"5" = 0;
-"6" = 0;
-"7" = 0;
-"8" = 0;
-"9" = 0;
-};
-};
-width = 1320;
-},
-{
-layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
-userData = {
-com.hugojourdan.ColorFlow = {
-"0" = 0;
-"1" = 0;
-"10" = 0;
-"11" = 0;
-"2" = 0;
-"3" = 0;
-"4" = 0;
-"5" = 0;
-"6" = 0;
-"7" = 0;
-"8" = 0;
-"9" = 0;
-};
-};
-width = 1160;
-}
-);
-unicode = 3000;
 },
 {
 glyphname = anoteleia;
@@ -124963,6 +124966,42 @@ width = 1132;
 }
 );
 unicode = 2030;
+},
+{
+glyphname = ratio;
+lastChange = "2024-12-12 02:39:08 +0000";
+layers = (
+{
+components = (
+{
+name = colon;
+}
+);
+layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 271;
+},
+{
+layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
+width = 600;
+}
+);
+unicode = 2236;
 },
 {
 glyphname = upArrow;
