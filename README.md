@@ -54,7 +54,7 @@ KISS. If you put it on a CDN to share, let me know, and I can include links.
 
 ## Sharing Products
 
-I'll work on a submission process for this. E-mail wasn't the best place to receive these. In the meantime.... support.abbiecod.es
+I'll work on a submission process for this. E-mail wasn't the best place to receive these. In the meantime.... [support.abbiecod.es](https://desk.zoho.com/portal/abbiecodes/en/home)
 
 ## Attribution
 
@@ -71,7 +71,7 @@ Everything from downloads to websites are provided by the service.
 
 ## Filling out school/business forms
 
-If you need a form for your school or business, create a support request (support.abbiecod.es) and please be patient. 🤞🏼 You can speed up turn around time by asking for the information you need for the form separately, or pre-filling the parts you know.
+If you need a form for your school or business, create a support request ([support.abbiecod.es](https://desk.zoho.com/portal/abbiecodes/en/home)) and please be patient. 🤞🏼 You can speed up turn around time by asking for the information you need for the form separately, or pre-filling the parts you know.
 
 Some of these forms are upwards of 20 pages of information that needs to be filled out yearly.
 
