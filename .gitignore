@@ -4,3 +4,5 @@ release-builds
 actions/build-regular.scpt
 build-release.ps1
 compiled/fonttest.html
+.gitignore
+.DS_Store
