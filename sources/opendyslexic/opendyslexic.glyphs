@@ -1,8 +1,5 @@
 {
 .appVersion = "3260";
-DisplayStrings = (
-"/baht"
-);
 classes = (
 {
 automatic = 1;
@@ -213,7 +210,7 @@ horizontalStems = (
 iconName = SemiLight_SemiExtended;
 id = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
 userData = {
-GSCornerRadius = 59;
+GSCornerRadius = 2;
 GSOffsetAutoStroke = 1;
 GSOffsetHorizontal = -7;
 GSOffsetKeepCompatible = 1;
@@ -122362,10 +122359,56 @@ unicode = 20B9;
 {
 color = 0;
 glyphname = sheqel;
-lastChange = "2024-12-06 21:50:48 +0000";
+lastChange = "2024-12-17 20:07:32 +0000";
 layers = (
 {
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
+paths = (
+{
+closed = 1;
+nodes = (
+"911 687 LINE",
+"819 687 LINE",
+"813 215 LINE SMOOTH",
+"812 136 OFFCURVE",
+"748 101 OFFCURVE",
+"689 109 CURVE SMOOTH",
+"644 115 LINE SMOOTH",
+"551 127 OFFCURVE",
+"473 184 OFFCURVE",
+"473 276 CURVE SMOOTH",
+"473 454 LINE",
+"385 467 LINE",
+"393 266 LINE SMOOTH",
+"398 139 OFFCURVE",
+"473 42 OFFCURVE",
+"639 26 CURVE SMOOTH",
+"911 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"248 68 LINE",
+"254 540 LINE SMOOTH",
+"255 619 OFFCURVE",
+"319 654 OFFCURVE",
+"378 646 CURVE SMOOTH",
+"423 640 LINE SMOOTH",
+"516 628 OFFCURVE",
+"594 571 OFFCURVE",
+"594 479 CURVE SMOOTH",
+"594 301 LINE",
+"682 288 LINE",
+"674 489 LINE SMOOTH",
+"669 616 OFFCURVE",
+"594 713 OFFCURVE",
+"428 729 CURVE SMOOTH",
+"156 755 LINE",
+"156 68 LINE"
+);
+}
+);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;
@@ -122382,10 +122425,56 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 600;
+width = 1067;
 },
 {
 layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
+paths = (
+{
+closed = 1;
+nodes = (
+"911 687 LINE",
+"792 687 LINE",
+"778 238 LINE SMOOTH",
+"776 184 OFFCURVE",
+"729 138 OFFCURVE",
+"659 147 CURVE SMOOTH",
+"614 153 LINE SMOOTH",
+"521 165 OFFCURVE",
+"473 239 OFFCURVE",
+"473 331 CURVE SMOOTH",
+"473 454 LINE",
+"342 467 LINE",
+"350 266 LINE SMOOTH",
+"355 139 OFFCURVE",
+"408 48 OFFCURVE",
+"639 26 CURVE SMOOTH",
+"911 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"269 68 LINE",
+"269 476 LINE SMOOTH",
+"269 555 OFFCURVE",
+"323 605 OFFCURVE",
+"403 605 CURVE SMOOTH",
+"435 605 LINE SMOOTH",
+"528 605 OFFCURVE",
+"564 536 OFFCURVE",
+"564 476 CURVE SMOOTH",
+"564 298 LINE",
+"682 288 LINE",
+"674 489 LINE SMOOTH",
+"669 616 OFFCURVE",
+"594 713 OFFCURVE",
+"428 729 CURVE SMOOTH",
+"156 755 LINE",
+"156 68 LINE"
+);
+}
+);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;
@@ -122402,7 +122491,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 600;
+width = 1067;
 }
 );
 unicode = 20AA;
@@ -164831,7 +164920,7 @@ zretroflexhook = None;
 };
 "com.hugojourdan.ColorFlow-selectedMaster" = {
 axesValues = (
-800
+400
 );
 customParameters = (
 {
@@ -164856,68 +164945,85 @@ value = (
 );
 guides = (
 {
-angle = 71.7341;
+angle = 0;
 pos = (
-356,
-188
+259,
+162
 );
 },
 {
-angle = -9.1002;
+angle = 256.0213;
 pos = (
-311,
-288
+359,
+281
 );
 },
 {
 angle = 0;
 locked = 1;
 pos = (
-323,
-829
+584,
+532
 );
 },
 {
 angle = 0;
 locked = 1;
 pos = (
-322,
-452
+571,
+467
 );
 },
 {
 angle = 0;
+locked = 1;
 pos = (
-615,
-228
+253,
+793
 );
 },
 {
 angle = 0;
-orientation = center;
+locked = 1;
 pos = (
-843,
+73,
 0
+);
+},
+{
+angle = 0;
+locked = 1;
+pos = (
+347,
+557
+);
+},
+{
+angle = 0;
+locked = 1;
+pos = (
+337,
+547
 );
 }
 );
-iconName = Bold;
-id = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
+iconName = SemiLight_SemiExtended;
+id = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
 metricValues = (
 {
 over = 16;
 pos = 1300;
 },
 {
-over = 9;
+over = 3;
 pos = 850;
 },
 {
-over = 45;
+over = 16;
 pos = 560;
 },
 {
-over = -23;
+over = -15;
 pos = 0;
 },
 {
@@ -164925,29 +165031,28 @@ over = -16;
 pos = -520;
 },
 {
-over = -23;
+over = -15;
 pos = 0;
 }
 );
-name = Bold;
 stemValues = (
 {
 id = "5F3098F7-D254-4C0A-A12D-D536DA336712";
-width = 142;
+width = 88;
 },
 {
 id = "72F948E7-E342-45B1-BB98-15BF17444D97";
-width = 174;
+width = 106;
 }
 );
 userData = {
-GSCornerRadius = 20;
+GSCornerRadius = 2;
 GSOffsetAutoStroke = 1;
-GSOffsetHorizontal = 15;
+GSOffsetHorizontal = -7;
 GSOffsetKeepCompatible = 1;
 GSOffsetPosition = 0.1;
 GSOffsetProportional = 1;
-GSOffsetVertical = -26;
+GSOffsetVertical = -10;
 };
 };
 };
