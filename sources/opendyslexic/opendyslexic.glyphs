@@ -73052,7 +73052,7 @@ unicode = 0393;
 },
 {
 glyphname = Delta;
-lastChange = "2024-12-04 01:08:59 +0000";
+lastChange = "2024-12-17 20:15:01 +0000";
 layers = (
 {
 hints = (
@@ -73124,7 +73124,7 @@ paths = (
 {
 closed = 1;
 nodes = (
-"803 83 LINE",
+"807 116 LINE",
 "518 737 LINE",
 "358 743 LINE",
 "661 -36 LINE"
@@ -73144,7 +73144,7 @@ closed = 1;
 nodes = (
 "518 737 LINE",
 "358 743 LINE",
-"57 83 LINE",
+"53 116 LINE",
 "192 -37 LINE"
 );
 }
@@ -107350,6 +107350,53 @@ width = 600;
 unicode = 200F;
 },
 {
+glyphname = "space-han";
+lastChange = "2024-12-04 01:09:00 +0000";
+layers = (
+{
+layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1320;
+},
+{
+layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 1160;
+}
+);
+unicode = 3000;
+},
+{
 glyphname = .notdef;
 lastChange = "2024-12-04 01:09:00 +0000";
 layers = (
@@ -107528,53 +107575,6 @@ com.hugojourdan.ColorFlow = {
 width = 1352;
 }
 );
-},
-{
-glyphname = "space-han";
-lastChange = "2024-12-04 01:09:00 +0000";
-layers = (
-{
-layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
-userData = {
-com.hugojourdan.ColorFlow = {
-"0" = 0;
-"1" = 0;
-"10" = 0;
-"11" = 0;
-"2" = 0;
-"3" = 0;
-"4" = 0;
-"5" = 0;
-"6" = 0;
-"7" = 0;
-"8" = 0;
-"9" = 0;
-};
-};
-width = 1320;
-},
-{
-layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
-userData = {
-com.hugojourdan.ColorFlow = {
-"0" = 0;
-"1" = 0;
-"10" = 0;
-"11" = 0;
-"2" = 0;
-"3" = 0;
-"4" = 0;
-"5" = 0;
-"6" = 0;
-"7" = 0;
-"8" = 0;
-"9" = 0;
-};
-};
-width = 1160;
-}
-);
-unicode = 3000;
 },
 {
 glyphname = anoteleia;
@@ -124887,6 +124887,63 @@ width = 859;
 }
 );
 unicode = 222B;
+},
+{
+glyphname = increment;
+lastChange = "2024-12-17 20:14:46 +0000";
+layers = (
+{
+components = (
+{
+name = Delta;
+}
+);
+layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 860;
+},
+{
+components = (
+{
+name = Delta;
+}
+);
+layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 860;
+}
+);
+unicode = 2206;
 },
 {
 glyphname = product;
