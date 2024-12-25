@@ -1,5 +1,8 @@
 {
 .appVersion = "3260";
+DisplayStrings = (
+"/f_f"
+);
 classes = (
 {
 automatic = 1;
@@ -51746,19 +51749,19 @@ leftKerningGroup = Round;
 },
 {
 glyphname = f_f;
-lastChange = "2024-12-04 01:08:59 +0000";
+lastChange = "2024-12-25 02:50:27 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
 name = f;
-transform = "{1, 0, 0, 1, -13, 0}";
+transform = "{1, 0, 0, 1, -3, 0}";
 },
 {
 alignment = -1;
 name = f;
-transform = "{1, 0, 0, 1, 453, 1}";
+transform = "{1, 0, 0, 1, 363, 1}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -51766,10 +51769,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"266 460 LINE",
-"752 458 LINE",
-"752 549 LINE",
-"275 551 LINE"
+"196 460 LINE",
+"682 458 LINE",
+"682 549 LINE",
+"205 551 LINE"
 );
 }
 );
@@ -51789,19 +51792,19 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 1070;
+width = 990;
 },
 {
 components = (
 {
 alignment = -1;
 name = f;
-transform = "{1, 0, 0, 1, -67, 0}";
+transform = "{1, 0, 0, 1, -3, 0}";
 },
 {
 alignment = -1;
 name = f;
-transform = "{1, 0, 0, 1, 445, 0}";
+transform = "{1, 0, 0, 1, 409, 0}";
 }
 );
 layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
@@ -51809,10 +51812,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"304 431 LINE",
-"691 431 LINE",
-"691 574 LINE",
-"283 574 LINE"
+"268 431 LINE",
+"655 431 LINE",
+"655 574 LINE",
+"247 574 LINE"
 );
 }
 );
@@ -51832,7 +51835,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 1061;
+width = 1090;
 }
 );
 unicode = FB00;
@@ -51849,7 +51852,7 @@ name = f_f;
 },
 {
 name = i;
-transform = "{1, 0, 0, 1, 868, 1}";
+transform = "{1, 0, 0, 1, 778, 1}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -51880,7 +51883,7 @@ transform = "{1, 0, 0, 1, 22, 0}";
 },
 {
 name = i;
-transform = "{1, 0, 0, 1, 944, -2}";
+transform = "{1, 0, 0, 1, 908, -2}";
 }
 );
 layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
@@ -51917,7 +51920,7 @@ name = f_f;
 },
 {
 name = l;
-transform = "{1, 0, 0, 1, 915, 0}";
+transform = "{1, 0, 0, 1, 825, 0}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -51948,7 +51951,7 @@ transform = "{1, 0, 0, 1, 22, 0}";
 },
 {
 name = l;
-transform = "{1, 0, 0, 1, 964, -6}";
+transform = "{1, 0, 0, 1, 928, -6}";
 }
 );
 layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
