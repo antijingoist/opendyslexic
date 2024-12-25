@@ -1,7 +1,7 @@
 {
 .appVersion = "3260";
 DisplayStrings = (
-"/ratio"
+"©"
 );
 classes = (
 {
@@ -119081,7 +119081,7 @@ unicode = 00A7;
 },
 {
 glyphname = copyright;
-lastChange = "2024-12-04 01:09:00 +0000";
+lastChange = "2024-12-25 02:47:56 +0000";
 layers = (
 {
 components = (
@@ -119149,7 +119149,7 @@ width = 538;
 components = (
 {
 name = c;
-transform = "{0.3668, 0, 0, 0.3169, 183, 433}";
+transform = "{0.3668, 0, 0, 0.3169, 183, 643}";
 }
 );
 layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
@@ -119157,35 +119157,35 @@ paths = (
 {
 closed = 1;
 nodes = (
-"456 308 OFFCURVE",
-"552 405 OFFCURVE",
-"552 525 CURVE SMOOTH",
-"552 642 OFFCURVE",
-"454 739 OFFCURVE",
-"336 739 CURVE SMOOTH",
-"217 739 OFFCURVE",
-"120 643 OFFCURVE",
-"120 525 CURVE SMOOTH",
-"120 404 OFFCURVE",
-"216 308 OFFCURVE",
-"336 308 CURVE SMOOTH"
+"456 518 OFFCURVE",
+"552 615 OFFCURVE",
+"552 735 CURVE SMOOTH",
+"552 852 OFFCURVE",
+"454 949 OFFCURVE",
+"336 949 CURVE SMOOTH",
+"217 949 OFFCURVE",
+"120 853 OFFCURVE",
+"120 735 CURVE SMOOTH",
+"120 614 OFFCURVE",
+"216 518 OFFCURVE",
+"336 518 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"265 396 OFFCURVE",
-"207 454 OFFCURVE",
-"207 525 CURVE SMOOTH",
-"207 598 OFFCURVE",
-"264 655 OFFCURVE",
-"336 655 CURVE SMOOTH",
-"407 655 OFFCURVE",
-"465 597 OFFCURVE",
-"465 525 CURVE SMOOTH",
-"465 454 OFFCURVE",
-"407 396 OFFCURVE",
-"336 396 CURVE SMOOTH"
+"265 606 OFFCURVE",
+"207 664 OFFCURVE",
+"207 735 CURVE SMOOTH",
+"207 808 OFFCURVE",
+"264 865 OFFCURVE",
+"336 865 CURVE SMOOTH",
+"407 865 OFFCURVE",
+"465 807 OFFCURVE",
+"465 735 CURVE SMOOTH",
+"465 664 OFFCURVE",
+"407 606 OFFCURVE",
+"336 606 CURVE SMOOTH"
 );
 }
 );
@@ -125576,7 +125576,7 @@ unicode = 0025;
 },
 {
 glyphname = perthousand;
-lastChange = "2024-12-04 01:09:00 +0000";
+lastChange = "2024-12-25 02:46:43 +0000";
 layers = (
 {
 components = (
@@ -125619,7 +125619,7 @@ width = 1103;
 components = (
 {
 name = zero;
-transform = "{0.279, 0, 0, 0.279, 641, -25}";
+transform = "{0.279, 0, 0, 0.279, 548, -25}";
 },
 {
 name = fraction;
@@ -125627,7 +125627,7 @@ transform = "{1, 0, 0, 1, -81, 0}";
 },
 {
 name = zero;
-transform = "{0.279, 0, 0, 0.279, 876, -26}";
+transform = "{0.279, 0, 0, 0.279, 744, -26}";
 },
 {
 name = zero;
