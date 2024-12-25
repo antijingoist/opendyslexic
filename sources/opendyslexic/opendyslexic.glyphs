@@ -1,5 +1,8 @@
 {
 .appVersion = "3260";
+DisplayStrings = (
+"/cadauna"
+);
 classes = (
 {
 automatic = 1;
@@ -120519,23 +120522,23 @@ unicode = 2116;
 },
 {
 glyphname = cadauna;
-lastChange = "2024-12-04 01:09:00 +0000";
+lastChange = "2024-12-25 02:38:55 +0000";
 layers = (
 {
 components = (
 {
 name = slash;
-transform = "{1, 0, 0, 1, 61, 46}";
+transform = "{1, 0, 0, 1, 81, 46}";
 },
 {
 alignment = -1;
 name = c;
-transform = "{0.4456, 0, 0, 0.4456, 12, 425}";
+transform = "{0.4456, 0, 0, 0.4456, 32, 425}";
 },
 {
 alignment = -1;
 name = u;
-transform = "{0.4974, 0, 0, 0.4036, 314, 0}";
+transform = "{0.4974, 0, 0, 0.4036, 378, 0}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -120555,23 +120558,23 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 716;
+width = 800;
 },
 {
 components = (
 {
 name = slash;
-transform = "{1, 0, 0, 1, 163, 46}";
+transform = "{1, 0, 0, 1, 100, 46}";
 },
 {
 alignment = -1;
 name = c;
-transform = "{0.4456, 0, 0, 0.4456, 5, 502}";
+transform = "{0.4456, 0, 0, 0.4456, 46, 502}";
 },
 {
 alignment = -1;
 name = u;
-transform = "{0.4974, 0, 0, 0.4036, 454, 0}";
+transform = "{0.4974, 0, 0, 0.4036, 495, 0}";
 }
 );
 layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
@@ -120591,7 +120594,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 918;
+width = 959;
 }
 );
 unicode = 2106;
