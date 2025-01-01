@@ -1,5 +1,8 @@
 {
 .appVersion = "3260";
+DisplayStrings = (
+"That's/space Cool/trademark"
+);
 classes = (
 {
 automatic = 1;
@@ -112748,13 +112751,13 @@ unicode = 0022;
 },
 {
 glyphname = quotesingle;
-lastChange = "2024-12-04 01:09:00 +0000";
+lastChange = "2025-01-01 17:27:10 +0000";
 layers = (
 {
 components = (
 {
 name = comma;
-transform = "{-1, 0, 0.31429, 1, 295, 617}";
+transform = "{-1, 0, 0.31429, 1, 293, 617}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -112774,13 +112777,13 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 277;
+width = 271;
 },
 {
 components = (
 {
 name = comma;
-transform = "{-1, 0, 0.31429, 1, 442, 617}";
+transform = "{-1, 0, 0.31429, 1, 322, 617}";
 }
 );
 layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
@@ -112800,7 +112803,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 571;
+width = 355;
 }
 );
 unicode = 0027;
@@ -119355,19 +119358,19 @@ unicode = 00AE;
 },
 {
 glyphname = trademark;
-lastChange = "2024-12-04 01:09:00 +0000";
+lastChange = "2025-01-01 17:26:18 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
 name = T;
-transform = "{0.1968, 0, 0, 0.1995, 64, 567}";
+transform = "{0.31488, 0, 0, 0.3192, -10, 641}";
 },
 {
 alignment = -1;
 name = M;
-transform = "{0.2018, 0, 0, 0.1948, 205, 568}";
+transform = "{0.32288, 0, 0, 0.31168, 260, 647}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -119387,19 +119390,19 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 445;
+width = 649;
 },
 {
 components = (
 {
 alignment = -1;
 name = T;
-transform = "{0.1968, 0, 0, 0.1995, 88, 567}";
+transform = "{0.31488, 0, 0, 0.3192, 9, 643}";
 },
 {
 alignment = -1;
 name = M;
-transform = "{0.2018, 0, 0, 0.1948, 229, 568}";
+transform = "{0.32288, 0, 0, 0.31168, 342, 649}";
 }
 );
 layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
@@ -119419,7 +119422,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 551;
+width = 726;
 }
 );
 unicode = 2122;
@@ -165636,7 +165639,7 @@ zretroflexhook = None;
 };
 "com.hugojourdan.ColorFlow-selectedMaster" = {
 axesValues = (
-400
+800
 );
 customParameters = (
 {
@@ -165661,85 +165664,68 @@ value = (
 );
 guides = (
 {
-angle = 0;
+angle = 71.7341;
 pos = (
-259,
-162
+356,
+188
 );
 },
 {
-angle = 256.0213;
+angle = -9.1002;
 pos = (
-359,
-281
-);
-},
-{
-angle = 0;
-locked = 1;
-pos = (
-584,
-532
+311,
+288
 );
 },
 {
 angle = 0;
 locked = 1;
 pos = (
-571,
-467
+323,
+829
 );
 },
 {
 angle = 0;
 locked = 1;
 pos = (
-253,
-793
+322,
+452
 );
 },
 {
 angle = 0;
-locked = 1;
 pos = (
-73,
+615,
+228
+);
+},
+{
+angle = 0;
+orientation = center;
+pos = (
+843,
 0
-);
-},
-{
-angle = 0;
-locked = 1;
-pos = (
-347,
-557
-);
-},
-{
-angle = 0;
-locked = 1;
-pos = (
-337,
-547
 );
 }
 );
-iconName = SemiLight_SemiExtended;
-id = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
+iconName = Bold;
+id = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
 metricValues = (
 {
 over = 16;
 pos = 1300;
 },
 {
-over = 3;
+over = 9;
 pos = 850;
 },
 {
-over = 16;
+over = 45;
 pos = 560;
 },
 {
-over = -15;
+over = -23;
 pos = 0;
 },
 {
@@ -165747,28 +165733,29 @@ over = -16;
 pos = -520;
 },
 {
-over = -15;
+over = -23;
 pos = 0;
 }
 );
+name = Bold;
 stemValues = (
 {
 id = "5F3098F7-D254-4C0A-A12D-D536DA336712";
-width = 88;
+width = 142;
 },
 {
 id = "72F948E7-E342-45B1-BB98-15BF17444D97";
-width = 106;
+width = 174;
 }
 );
 userData = {
-GSCornerRadius = 2;
+GSCornerRadius = 20;
 GSOffsetAutoStroke = 1;
-GSOffsetHorizontal = -7;
+GSOffsetHorizontal = 15;
 GSOffsetKeepCompatible = 1;
 GSOffsetPosition = 0.1;
 GSOffsetProportional = 1;
-GSOffsetVertical = -10;
+GSOffsetVertical = -26;
 };
 };
 };
