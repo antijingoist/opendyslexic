@@ -151,6 +151,7 @@ ascender = 1300;
 capHeight = 850;
 customParameters = (
 {
+disabled = 1;
 name = "Color Palettes";
 value = (
 (
@@ -237,6 +238,7 @@ ascender = 1300;
 capHeight = 850;
 customParameters = (
 {
+disabled = 1;
 name = "Color Palettes";
 value = (
 (
@@ -165617,6 +165619,7 @@ axesValues = (
 );
 customParameters = (
 {
+disabled = 1;
 name = "Color Palettes";
 value = (
 (
