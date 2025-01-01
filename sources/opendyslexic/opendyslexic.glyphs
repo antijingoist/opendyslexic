@@ -1,8 +1,5 @@
 {
 .appVersion = "3260";
-DisplayStrings = (
-"&"
-);
 classes = (
 {
 automatic = 1;
@@ -119429,7 +119426,7 @@ unicode = 2122;
 },
 {
 glyphname = careof;
-lastChange = "2024-12-04 01:09:00 +0000";
+lastChange = "2025-01-01 17:04:23 +0000";
 layers = (
 {
 components = (
@@ -119471,7 +119468,7 @@ width = 734;
 components = (
 {
 name = slash;
-transform = "{1, 0, 0, 1, 211, 80}";
+transform = "{1, 0, 0, 1, 136, 80}";
 },
 {
 alignment = -1;
