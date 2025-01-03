@@ -1,8 +1,5 @@
 {
 .appVersion = "3337";
-DisplayStrings = (
-"/Hahook-cy"
-);
 classes = (
 {
 automatic = 1;
@@ -61765,7 +61762,7 @@ unicode = 04E0;
 },
 {
 glyphname = "Imacron-cy";
-lastChange = "2024-12-04 01:08:59 +0000";
+lastChange = "2025-01-03 19:29:12 +0000";
 layers = (
 {
 components = (
@@ -61773,8 +61770,9 @@ components = (
 name = "Ii-cy";
 },
 {
+anchor = top;
 name = macroncomb;
-transform = "{1, 0, 0, 1, 176, -249}";
+transform = "{1, 0, 0, 1, 168, 386}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -61802,8 +61800,9 @@ components = (
 name = "Ii-cy";
 },
 {
+anchor = top;
 name = macroncomb;
-transform = "{1, 0, 0, 1, 193, -202}";
+transform = "{1, 0, 0, 1, 136, 577}";
 }
 );
 layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
