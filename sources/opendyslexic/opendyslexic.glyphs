@@ -1,5 +1,8 @@
 {
 .appVersion = "3337";
+DisplayStrings = (
+"V/vturned"
+);
 classes = (
 {
 automatic = 1;
@@ -48483,14 +48486,13 @@ unicode = 1E7D;
 },
 {
 glyphname = vturned;
-lastChange = "2024-12-04 01:08:59 +0000";
+lastChange = "2025-01-07 21:24:31 +0000";
 layers = (
 {
 components = (
 {
-alignment = -1;
-name = V;
-transform = "{-1, 0, 0, -1, 1013, 855}";
+name = Vturned;
+transform = "{0.64, 0, 0, 0.64, 0, 0}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -48510,14 +48512,13 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 828;
+width = 741;
 },
 {
 components = (
 {
-alignment = -1;
-name = V;
-transform = "{-1, 0, 0, -1, 977, 857}";
+name = Vturned;
+transform = "{0.64, 0, 0, 0.64, 0, 0}";
 }
 );
 layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
@@ -48537,7 +48538,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 828;
+width = 724;
 }
 );
 unicode = 028C;
