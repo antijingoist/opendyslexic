@@ -1,7 +1,8 @@
 {
 .appVersion = "3337";
 DisplayStrings = (
-"V/vturned"
+"T/Te-cy",
+"/rlonglegturned"
 );
 classes = (
 {
@@ -16487,7 +16488,7 @@ unicode = 1E9E;
 {
 color = 6;
 glyphname = T;
-lastChange = "2024-12-04 01:08:59 +0000";
+lastChange = "2025-01-08 00:55:47 +0000";
 layers = (
 {
 anchors = (
@@ -19255,7 +19256,7 @@ unicode = 1E74;
 {
 color = 6;
 glyphname = V;
-lastChange = "2024-12-04 01:08:59 +0000";
+lastChange = "2025-01-08 18:43:13 +0000";
 layers = (
 {
 anchors = (
@@ -19269,7 +19270,7 @@ position = "{579, 889}";
 },
 {
 name = top_hook;
-position = "{809, 734}";
+position = "{794, 734}";
 }
 );
 hints = (
@@ -43399,29 +43400,29 @@ unicode = 027B;
 },
 {
 glyphname = rlonglegturned;
-lastChange = "2024-12-04 01:08:59 +0000";
+lastChange = "2025-01-10 01:07:28 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{196, -71}";
+position = "{213, -71}";
 },
 {
 name = bottomhook;
-position = "{357, 21}";
+position = "{374, 21}";
 },
 {
 name = center;
-position = "{371, 286}";
+position = "{388, 286}";
 },
 {
 name = top;
-position = "{286, 491}";
+position = "{303, 491}";
 },
 {
 name = top_wide;
-position = "{323, 560}";
+position = "{340, 560}";
 }
 );
 hints = (
@@ -43437,22 +43438,22 @@ paths = (
 {
 closed = 1;
 nodes = (
-"234 17 OFFCURVE",
-"262 32 OFFCURVE",
-"317 74 CURVE",
-"317 15 LINE",
-"410 15 LINE",
-"410 243 OFFCURVE",
-"435 634 OFFCURVE",
-"476 830 CURVE",
-"255 830 LINE",
-"284 666 OFFCURVE",
-"298 332 OFFCURVE",
-"298 274 CURVE SMOOTH",
-"298 177 OFFCURVE",
-"280 100 OFFCURVE",
-"103 137 CURVE",
-"118 11 LINE"
+"251 17 OFFCURVE",
+"279 32 OFFCURVE",
+"334 74 CURVE",
+"334 15 LINE",
+"427 15 LINE",
+"427 243 OFFCURVE",
+"452 634 OFFCURVE",
+"493 830 CURVE",
+"272 830 LINE",
+"301 666 OFFCURVE",
+"315 332 OFFCURVE",
+"315 274 CURVE SMOOTH",
+"315 177 OFFCURVE",
+"297 100 OFFCURVE",
+"120 137 CURVE",
+"135 11 LINE"
 );
 }
 );
@@ -43472,29 +43473,29 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 529;
+width = 613;
 },
 {
 anchors = (
 {
 name = bottom;
-position = "{161, -71}";
+position = "{213, -71}";
 },
 {
 name = bottomhook;
-position = "{357, -20}";
+position = "{409, -20}";
 },
 {
 name = center;
-position = "{366, 286}";
+position = "{418, 286}";
 },
 {
 name = top;
-position = "{251, 491}";
+position = "{303, 491}";
 },
 {
 name = top_wide;
-position = "{335, 560}";
+position = "{387, 560}";
 }
 );
 layerId = "BBDB329E-CE83-4304-A6B1-53EA5ACC004E";
@@ -43502,22 +43503,22 @@ paths = (
 {
 closed = 1;
 nodes = (
-"190 -12 OFFCURVE",
-"236 -5 OFFCURVE",
-"285 24 CURVE",
-"285 -7 LINE",
-"432 -12 LINE",
-"432 247 OFFCURVE",
-"436 607 OFFCURVE",
-"484 829 CURVE",
-"248 829 LINE",
-"282 647 OFFCURVE",
-"283 368 OFFCURVE",
-"285 307 CURVE SMOOTH",
-"289 173 OFFCURVE",
-"284 101 OFFCURVE",
-"68 136 CURVE",
-"90 -16 LINE"
+"242 -12 OFFCURVE",
+"288 -5 OFFCURVE",
+"337 24 CURVE",
+"337 -7 LINE",
+"484 -12 LINE",
+"484 247 OFFCURVE",
+"488 607 OFFCURVE",
+"536 829 CURVE",
+"300 829 LINE",
+"334 647 OFFCURVE",
+"335 368 OFFCURVE",
+"337 307 CURVE SMOOTH",
+"341 173 OFFCURVE",
+"336 101 OFFCURVE",
+"120 136 CURVE",
+"142 -16 LINE"
 );
 }
 );
@@ -43537,7 +43538,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 539;
+width = 656;
 }
 );
 unicode = 027A;
@@ -55415,7 +55416,7 @@ unicode = 0421;
 },
 {
 glyphname = "Te-cy";
-lastChange = "2024-12-04 01:08:59 +0000";
+lastChange = "2025-01-08 00:55:49 +0000";
 layers = (
 {
 components = (
@@ -58300,7 +58301,7 @@ unicode = 0472;
 },
 {
 glyphname = "Izhitsa-cy";
-lastChange = "2024-12-04 01:08:59 +0000";
+lastChange = "2025-01-08 18:43:13 +0000";
 layers = (
 {
 components = (
@@ -58309,7 +58310,7 @@ name = V;
 },
 {
 name = od_top_hook;
-transform = "{1.25938, -0.59599, 0.6808, 1.44101, 532, 401}";
+transform = "{1.30632, -0.48335, 0.55287, 1.49528, 544, 374}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -67613,7 +67614,7 @@ unicode = 0473;
 },
 {
 glyphname = "izhitsa-cy";
-lastChange = "2024-12-04 01:08:59 +0000";
+lastChange = "2025-01-08 18:43:19 +0000";
 layers = (
 {
 components = (
@@ -67624,7 +67625,7 @@ transform = "{0.6993, 0, 0, 0.6993, 0, 0}";
 },
 {
 name = od_top_hook;
-transform = "{0.67547, -0.18099, 0.18099, 0.67547, 455, 344}";
+transform = "{0.67547, -0.18099, 0.18099, 0.67547, 445, 344}";
 }
 );
 layerId = "BA196CD0-EE58-4274-B8DF-4393D3617A29";
@@ -143435,7 +143436,7 @@ width = 600;
 },
 {
 glyphname = od_top_hook;
-lastChange = "2024-12-04 01:09:00 +0000";
+lastChange = "2025-01-08 18:42:22 +0000";
 layers = (
 {
 anchors = (
