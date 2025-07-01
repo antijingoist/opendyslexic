@@ -74,7 +74,3 @@ Everything from downloads to websites are provided by the service.
 If you need a form for your school or business, create a support request ([support.abbiecod.es](https://desk.zoho.com/portal/abbiecodes/en/home)) and please be patient. 🤞🏼 You can speed up turn around time by asking for the information you need for the form separately, or pre-filling the parts you know.
 
 Some of these forms are upwards of 20 pages of information that needs to be filled out yearly.
-
-## Privacy policy
-
-The typeface itself cannot collect or send information. 
